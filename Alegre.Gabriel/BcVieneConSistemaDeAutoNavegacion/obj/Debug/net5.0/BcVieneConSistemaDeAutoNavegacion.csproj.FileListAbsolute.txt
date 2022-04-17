@@ -1,0 +1,12 @@
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcVieneConSistemaDeAutoNavegacion\bin\Debug\net5.0\BcVieneConSistemaDeAutoNavegacion.deps.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcVieneConSistemaDeAutoNavegacion\bin\Debug\net5.0\BcVieneConSistemaDeAutoNavegacion.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcVieneConSistemaDeAutoNavegacion\bin\Debug\net5.0\ref\BcVieneConSistemaDeAutoNavegacion.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcVieneConSistemaDeAutoNavegacion\bin\Debug\net5.0\BcVieneConSistemaDeAutoNavegacion.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcVieneConSistemaDeAutoNavegacion\obj\Debug\net5.0\BcVieneConSistemaDeAutoNavegacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcVieneConSistemaDeAutoNavegacion\obj\Debug\net5.0\BcVieneConSistemaDeAutoNavegacion.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcVieneConSistemaDeAutoNavegacion\obj\Debug\net5.0\BcVieneConSistemaDeAutoNavegacion.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcVieneConSistemaDeAutoNavegacion\obj\Debug\net5.0\BcVieneConSistemaDeAutoNavegacion.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcVieneConSistemaDeAutoNavegacion\obj\Debug\net5.0\BcVieneConSistemaDeAutoNavegacion.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcVieneConSistemaDeAutoNavegacion\obj\Debug\net5.0\ref\BcVieneConSistemaDeAutoNavegacion.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcVieneConSistemaDeAutoNavegacion\obj\Debug\net5.0\BcVieneConSistemaDeAutoNavegacion.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcVieneConSistemaDeAutoNavegacion\obj\Debug\net5.0\BcVieneConSistemaDeAutoNavegacion.csproj.AssemblyReference.cache

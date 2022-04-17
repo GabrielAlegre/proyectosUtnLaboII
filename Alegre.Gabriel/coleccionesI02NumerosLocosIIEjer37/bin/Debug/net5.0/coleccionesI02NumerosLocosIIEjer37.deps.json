@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "coleccionesI02NumerosLocosIIEjer37/1.0.0": {
+        "runtime": {
+          "coleccionesI02NumerosLocosIIEjer37.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "coleccionesI02NumerosLocosIIEjer37/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

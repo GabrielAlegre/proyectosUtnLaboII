@@ -1,0 +1,15 @@
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI06AniosBisiestosEjer07\bin\Debug\net5.0\introNetI06AniosBisiestosEjer07.exe
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI06AniosBisiestosEjer07\bin\Debug\net5.0\introNetI06AniosBisiestosEjer07.deps.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI06AniosBisiestosEjer07\bin\Debug\net5.0\introNetI06AniosBisiestosEjer07.runtimeconfig.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI06AniosBisiestosEjer07\bin\Debug\net5.0\introNetI06AniosBisiestosEjer07.runtimeconfig.dev.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI06AniosBisiestosEjer07\bin\Debug\net5.0\introNetI06AniosBisiestosEjer07.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI06AniosBisiestosEjer07\bin\Debug\net5.0\ref\introNetI06AniosBisiestosEjer07.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI06AniosBisiestosEjer07\bin\Debug\net5.0\introNetI06AniosBisiestosEjer07.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI06AniosBisiestosEjer07\obj\Debug\net5.0\introNetI06AniosBisiestosEjer07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI06AniosBisiestosEjer07\obj\Debug\net5.0\introNetI06AniosBisiestosEjer07.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI06AniosBisiestosEjer07\obj\Debug\net5.0\introNetI06AniosBisiestosEjer07.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI06AniosBisiestosEjer07\obj\Debug\net5.0\introNetI06AniosBisiestosEjer07.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI06AniosBisiestosEjer07\obj\Debug\net5.0\introNetI06AniosBisiestosEjer07.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI06AniosBisiestosEjer07\obj\Debug\net5.0\ref\introNetI06AniosBisiestosEjer07.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI06AniosBisiestosEjer07\obj\Debug\net5.0\introNetI06AniosBisiestosEjer07.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI06AniosBisiestosEjer07\obj\Debug\net5.0\introNetI06AniosBisiestosEjer07.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\Geometria\bin\Debug\net5.0\Geometria.deps.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\Geometria\bin\Debug\net5.0\Geometria.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\Geometria\bin\Debug\net5.0\ref\Geometria.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\Geometria\bin\Debug\net5.0\Geometria.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\Geometria\obj\Debug\net5.0\Geometria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\Geometria\obj\Debug\net5.0\Geometria.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\Geometria\obj\Debug\net5.0\Geometria.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\Geometria\obj\Debug\net5.0\Geometria.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\Geometria\obj\Debug\net5.0\Geometria.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\Geometria\obj\Debug\net5.0\ref\Geometria.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\Geometria\obj\Debug\net5.0\Geometria.pdb

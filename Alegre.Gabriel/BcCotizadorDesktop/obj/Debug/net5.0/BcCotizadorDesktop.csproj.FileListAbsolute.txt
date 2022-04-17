@@ -1,0 +1,12 @@
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcCotizadorDesktop\bin\Debug\net5.0\BcCotizadorDesktop.deps.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcCotizadorDesktop\bin\Debug\net5.0\BcCotizadorDesktop.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcCotizadorDesktop\bin\Debug\net5.0\ref\BcCotizadorDesktop.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcCotizadorDesktop\bin\Debug\net5.0\BcCotizadorDesktop.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcCotizadorDesktop\obj\Debug\net5.0\BcCotizadorDesktop.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcCotizadorDesktop\obj\Debug\net5.0\BcCotizadorDesktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcCotizadorDesktop\obj\Debug\net5.0\BcCotizadorDesktop.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcCotizadorDesktop\obj\Debug\net5.0\BcCotizadorDesktop.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcCotizadorDesktop\obj\Debug\net5.0\BcCotizadorDesktop.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcCotizadorDesktop\obj\Debug\net5.0\BcCotizadorDesktop.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcCotizadorDesktop\obj\Debug\net5.0\ref\BcCotizadorDesktop.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcCotizadorDesktop\obj\Debug\net5.0\BcCotizadorDesktop.pdb

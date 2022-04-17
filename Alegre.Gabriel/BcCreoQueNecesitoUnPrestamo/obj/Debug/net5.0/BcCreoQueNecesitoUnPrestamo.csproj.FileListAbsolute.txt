@@ -1,0 +1,12 @@
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcCreoQueNecesitoUnPrestamo\bin\Debug\net5.0\BcCreoQueNecesitoUnPrestamo.deps.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcCreoQueNecesitoUnPrestamo\bin\Debug\net5.0\BcCreoQueNecesitoUnPrestamo.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcCreoQueNecesitoUnPrestamo\bin\Debug\net5.0\ref\BcCreoQueNecesitoUnPrestamo.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcCreoQueNecesitoUnPrestamo\bin\Debug\net5.0\BcCreoQueNecesitoUnPrestamo.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcCreoQueNecesitoUnPrestamo\obj\Debug\net5.0\BcCreoQueNecesitoUnPrestamo.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcCreoQueNecesitoUnPrestamo\obj\Debug\net5.0\BcCreoQueNecesitoUnPrestamo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcCreoQueNecesitoUnPrestamo\obj\Debug\net5.0\BcCreoQueNecesitoUnPrestamo.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcCreoQueNecesitoUnPrestamo\obj\Debug\net5.0\BcCreoQueNecesitoUnPrestamo.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcCreoQueNecesitoUnPrestamo\obj\Debug\net5.0\BcCreoQueNecesitoUnPrestamo.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcCreoQueNecesitoUnPrestamo\obj\Debug\net5.0\BcCreoQueNecesitoUnPrestamo.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcCreoQueNecesitoUnPrestamo\obj\Debug\net5.0\ref\BcCreoQueNecesitoUnPrestamo.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcCreoQueNecesitoUnPrestamo\obj\Debug\net5.0\BcCreoQueNecesitoUnPrestamo.pdb

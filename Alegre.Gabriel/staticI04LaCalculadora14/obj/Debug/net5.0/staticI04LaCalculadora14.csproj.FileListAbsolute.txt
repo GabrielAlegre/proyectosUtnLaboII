@@ -1,0 +1,16 @@
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticI04LaCalculadora14\bin\Debug\net5.0\staticI04LaCalculadora14.exe
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticI04LaCalculadora14\bin\Debug\net5.0\staticI04LaCalculadora14.deps.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticI04LaCalculadora14\bin\Debug\net5.0\staticI04LaCalculadora14.runtimeconfig.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticI04LaCalculadora14\bin\Debug\net5.0\staticI04LaCalculadora14.runtimeconfig.dev.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticI04LaCalculadora14\bin\Debug\net5.0\staticI04LaCalculadora14.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticI04LaCalculadora14\bin\Debug\net5.0\ref\staticI04LaCalculadora14.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticI04LaCalculadora14\bin\Debug\net5.0\staticI04LaCalculadora14.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticI04LaCalculadora14\obj\Debug\net5.0\staticI04LaCalculadora14.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticI04LaCalculadora14\obj\Debug\net5.0\staticI04LaCalculadora14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticI04LaCalculadora14\obj\Debug\net5.0\staticI04LaCalculadora14.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticI04LaCalculadora14\obj\Debug\net5.0\staticI04LaCalculadora14.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticI04LaCalculadora14\obj\Debug\net5.0\staticI04LaCalculadora14.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticI04LaCalculadora14\obj\Debug\net5.0\staticI04LaCalculadora14.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticI04LaCalculadora14\obj\Debug\net5.0\ref\staticI04LaCalculadora14.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticI04LaCalculadora14\obj\Debug\net5.0\staticI04LaCalculadora14.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticI04LaCalculadora14\obj\Debug\net5.0\staticI04LaCalculadora14.genruntimeconfig.cache

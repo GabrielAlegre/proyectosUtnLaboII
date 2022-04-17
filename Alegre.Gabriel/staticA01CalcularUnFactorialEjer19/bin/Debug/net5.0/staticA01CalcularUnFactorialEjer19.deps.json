@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "staticA01CalcularUnFactorialEjer19/1.0.0": {
+        "runtime": {
+          "staticA01CalcularUnFactorialEjer19.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "staticA01CalcularUnFactorialEjer19/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

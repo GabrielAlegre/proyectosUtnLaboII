@@ -1,0 +1,16 @@
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\ejerClase02\bin\Debug\net5.0\ejerClase02.exe
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\ejerClase02\bin\Debug\net5.0\ejerClase02.deps.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\ejerClase02\bin\Debug\net5.0\ejerClase02.runtimeconfig.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\ejerClase02\bin\Debug\net5.0\ejerClase02.runtimeconfig.dev.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\ejerClase02\bin\Debug\net5.0\ejerClase02.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\ejerClase02\bin\Debug\net5.0\ref\ejerClase02.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\ejerClase02\bin\Debug\net5.0\ejerClase02.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\ejerClase02\obj\Debug\net5.0\ejerClase02.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\ejerClase02\obj\Debug\net5.0\ejerClase02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\ejerClase02\obj\Debug\net5.0\ejerClase02.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\ejerClase02\obj\Debug\net5.0\ejerClase02.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\ejerClase02\obj\Debug\net5.0\ejerClase02.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\ejerClase02\obj\Debug\net5.0\ejerClase02.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\ejerClase02\obj\Debug\net5.0\ref\ejerClase02.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\ejerClase02\obj\Debug\net5.0\ejerClase02.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\ejerClase02\obj\Debug\net5.0\ejerClase02.genruntimeconfig.cache

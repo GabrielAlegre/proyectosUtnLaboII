@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PooI01CreoQueNecesitoUnPrestamoEjer20/1.0.0": {
+        "dependencies": {
+          "BcCreoQueNecesitoUnPrestamo": "1.0.0"
+        },
+        "runtime": {
+          "PooI01CreoQueNecesitoUnPrestamoEjer20.dll": {}
+        }
+      },
+      "BcCreoQueNecesitoUnPrestamo/1.0.0": {
+        "runtime": {
+          "BcCreoQueNecesitoUnPrestamo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PooI01CreoQueNecesitoUnPrestamoEjer20/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BcCreoQueNecesitoUnPrestamo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

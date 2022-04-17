@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SobrecargaI02CotizadorEjer28/1.0.0": {
+        "dependencies": {
+          "BcCotizador": "1.0.0"
+        },
+        "runtime": {
+          "SobrecargaI02CotizadorEjer28.dll": {}
+        }
+      },
+      "BcCotizador/1.0.0": {
+        "runtime": {
+          "BcCotizador.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SobrecargaI02CotizadorEjer28/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BcCotizador/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

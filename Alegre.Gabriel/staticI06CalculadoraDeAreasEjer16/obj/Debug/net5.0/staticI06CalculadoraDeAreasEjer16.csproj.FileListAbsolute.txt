@@ -1,0 +1,15 @@
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticI06CalculadoraDeAreasEjer16\bin\Debug\net5.0\staticI06CalculadoraDeAreasEjer16.exe
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticI06CalculadoraDeAreasEjer16\bin\Debug\net5.0\staticI06CalculadoraDeAreasEjer16.deps.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticI06CalculadoraDeAreasEjer16\bin\Debug\net5.0\staticI06CalculadoraDeAreasEjer16.runtimeconfig.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticI06CalculadoraDeAreasEjer16\bin\Debug\net5.0\staticI06CalculadoraDeAreasEjer16.runtimeconfig.dev.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticI06CalculadoraDeAreasEjer16\bin\Debug\net5.0\staticI06CalculadoraDeAreasEjer16.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticI06CalculadoraDeAreasEjer16\bin\Debug\net5.0\ref\staticI06CalculadoraDeAreasEjer16.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticI06CalculadoraDeAreasEjer16\bin\Debug\net5.0\staticI06CalculadoraDeAreasEjer16.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticI06CalculadoraDeAreasEjer16\obj\Debug\net5.0\staticI06CalculadoraDeAreasEjer16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticI06CalculadoraDeAreasEjer16\obj\Debug\net5.0\staticI06CalculadoraDeAreasEjer16.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticI06CalculadoraDeAreasEjer16\obj\Debug\net5.0\staticI06CalculadoraDeAreasEjer16.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticI06CalculadoraDeAreasEjer16\obj\Debug\net5.0\staticI06CalculadoraDeAreasEjer16.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticI06CalculadoraDeAreasEjer16\obj\Debug\net5.0\staticI06CalculadoraDeAreasEjer16.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticI06CalculadoraDeAreasEjer16\obj\Debug\net5.0\ref\staticI06CalculadoraDeAreasEjer16.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticI06CalculadoraDeAreasEjer16\obj\Debug\net5.0\staticI06CalculadoraDeAreasEjer16.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticI06CalculadoraDeAreasEjer16\obj\Debug\net5.0\staticI06CalculadoraDeAreasEjer16.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticA01CalcularUnFactorialEjer19\bin\Debug\net5.0\staticA01CalcularUnFactorialEjer19.exe
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticA01CalcularUnFactorialEjer19\bin\Debug\net5.0\staticA01CalcularUnFactorialEjer19.deps.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticA01CalcularUnFactorialEjer19\bin\Debug\net5.0\staticA01CalcularUnFactorialEjer19.runtimeconfig.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticA01CalcularUnFactorialEjer19\bin\Debug\net5.0\staticA01CalcularUnFactorialEjer19.runtimeconfig.dev.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticA01CalcularUnFactorialEjer19\bin\Debug\net5.0\staticA01CalcularUnFactorialEjer19.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticA01CalcularUnFactorialEjer19\bin\Debug\net5.0\ref\staticA01CalcularUnFactorialEjer19.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticA01CalcularUnFactorialEjer19\bin\Debug\net5.0\staticA01CalcularUnFactorialEjer19.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticA01CalcularUnFactorialEjer19\obj\Debug\net5.0\staticA01CalcularUnFactorialEjer19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticA01CalcularUnFactorialEjer19\obj\Debug\net5.0\staticA01CalcularUnFactorialEjer19.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticA01CalcularUnFactorialEjer19\obj\Debug\net5.0\staticA01CalcularUnFactorialEjer19.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticA01CalcularUnFactorialEjer19\obj\Debug\net5.0\staticA01CalcularUnFactorialEjer19.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticA01CalcularUnFactorialEjer19\obj\Debug\net5.0\staticA01CalcularUnFactorialEjer19.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticA01CalcularUnFactorialEjer19\obj\Debug\net5.0\ref\staticA01CalcularUnFactorialEjer19.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticA01CalcularUnFactorialEjer19\obj\Debug\net5.0\staticA01CalcularUnFactorialEjer19.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticA01CalcularUnFactorialEjer19\obj\Debug\net5.0\staticA01CalcularUnFactorialEjer19.genruntimeconfig.cache

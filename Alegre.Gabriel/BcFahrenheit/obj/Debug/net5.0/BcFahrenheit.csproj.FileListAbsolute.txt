@@ -1,0 +1,12 @@
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcFahrenheit\bin\Debug\net5.0\BcFahrenheit.deps.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcFahrenheit\bin\Debug\net5.0\BcFahrenheit.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcFahrenheit\bin\Debug\net5.0\ref\BcFahrenheit.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcFahrenheit\bin\Debug\net5.0\BcFahrenheit.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcFahrenheit\obj\Debug\net5.0\BcFahrenheit.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcFahrenheit\obj\Debug\net5.0\BcFahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcFahrenheit\obj\Debug\net5.0\BcFahrenheit.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcFahrenheit\obj\Debug\net5.0\BcFahrenheit.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcFahrenheit\obj\Debug\net5.0\BcFahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcFahrenheit\obj\Debug\net5.0\BcFahrenheit.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcFahrenheit\obj\Debug\net5.0\ref\BcFahrenheit.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcFahrenheit\obj\Debug\net5.0\BcFahrenheit.pdb

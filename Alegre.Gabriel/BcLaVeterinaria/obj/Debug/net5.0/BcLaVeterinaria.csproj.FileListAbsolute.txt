@@ -1,0 +1,12 @@
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcLaVeterinaria\bin\Debug\net5.0\BcLaVeterinaria.deps.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcLaVeterinaria\bin\Debug\net5.0\BcLaVeterinaria.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcLaVeterinaria\bin\Debug\net5.0\ref\BcLaVeterinaria.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcLaVeterinaria\bin\Debug\net5.0\BcLaVeterinaria.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcLaVeterinaria\obj\Debug\net5.0\BcLaVeterinaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcLaVeterinaria\obj\Debug\net5.0\BcLaVeterinaria.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcLaVeterinaria\obj\Debug\net5.0\BcLaVeterinaria.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcLaVeterinaria\obj\Debug\net5.0\BcLaVeterinaria.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcLaVeterinaria\obj\Debug\net5.0\BcLaVeterinaria.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcLaVeterinaria\obj\Debug\net5.0\ref\BcLaVeterinaria.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcLaVeterinaria\obj\Debug\net5.0\BcLaVeterinaria.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcLaVeterinaria\obj\Debug\net5.0\BcLaVeterinaria.csproj.AssemblyReference.cache

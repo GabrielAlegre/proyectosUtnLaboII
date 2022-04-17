@@ -1,0 +1,11 @@
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcVosCuantasPrimaverasTenes\bin\Debug\net5.0\BcVosCuantasPrimaverasTenes.deps.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcVosCuantasPrimaverasTenes\bin\Debug\net5.0\BcVosCuantasPrimaverasTenes.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcVosCuantasPrimaverasTenes\bin\Debug\net5.0\ref\BcVosCuantasPrimaverasTenes.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcVosCuantasPrimaverasTenes\bin\Debug\net5.0\BcVosCuantasPrimaverasTenes.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcVosCuantasPrimaverasTenes\obj\Debug\net5.0\BcVosCuantasPrimaverasTenes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcVosCuantasPrimaverasTenes\obj\Debug\net5.0\BcVosCuantasPrimaverasTenes.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcVosCuantasPrimaverasTenes\obj\Debug\net5.0\BcVosCuantasPrimaverasTenes.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcVosCuantasPrimaverasTenes\obj\Debug\net5.0\BcVosCuantasPrimaverasTenes.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcVosCuantasPrimaverasTenes\obj\Debug\net5.0\BcVosCuantasPrimaverasTenes.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcVosCuantasPrimaverasTenes\obj\Debug\net5.0\ref\BcVosCuantasPrimaverasTenes.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcVosCuantasPrimaverasTenes\obj\Debug\net5.0\BcVosCuantasPrimaverasTenes.pdb

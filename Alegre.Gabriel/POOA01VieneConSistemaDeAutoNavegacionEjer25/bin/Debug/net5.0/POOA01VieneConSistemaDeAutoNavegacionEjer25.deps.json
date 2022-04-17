@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "POOA01VieneConSistemaDeAutoNavegacionEjer25/1.0.0": {
+        "dependencies": {
+          "BcVieneConSistemaDeAutoNavegacion": "1.0.0"
+        },
+        "runtime": {
+          "POOA01VieneConSistemaDeAutoNavegacionEjer25.dll": {}
+        }
+      },
+      "BcVieneConSistemaDeAutoNavegacion/1.0.0": {
+        "runtime": {
+          "BcVieneConSistemaDeAutoNavegacion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "POOA01VieneConSistemaDeAutoNavegacionEjer25/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BcVieneConSistemaDeAutoNavegacion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

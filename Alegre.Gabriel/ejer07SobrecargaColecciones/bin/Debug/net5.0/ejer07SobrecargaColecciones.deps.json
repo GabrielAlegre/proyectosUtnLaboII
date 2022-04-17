@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ejer07SobrecargaColecciones/1.0.0": {
+        "dependencies": {
+          "clase07sobrecargaColeccionBc": "1.0.0"
+        },
+        "runtime": {
+          "ejer07SobrecargaColecciones.dll": {}
+        }
+      },
+      "clase07sobrecargaColeccionBc/1.0.0": {
+        "runtime": {
+          "clase07sobrecargaColeccionBc.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ejer07SobrecargaColecciones/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "clase07sobrecargaColeccionBc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

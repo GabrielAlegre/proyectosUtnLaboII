@@ -1,0 +1,16 @@
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\coleccionesI01NumerosLocosEjer36\bin\Debug\net5.0\coleccionesI01NumerosLocosEjer36.exe
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\coleccionesI01NumerosLocosEjer36\bin\Debug\net5.0\coleccionesI01NumerosLocosEjer36.deps.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\coleccionesI01NumerosLocosEjer36\bin\Debug\net5.0\coleccionesI01NumerosLocosEjer36.runtimeconfig.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\coleccionesI01NumerosLocosEjer36\bin\Debug\net5.0\coleccionesI01NumerosLocosEjer36.runtimeconfig.dev.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\coleccionesI01NumerosLocosEjer36\bin\Debug\net5.0\coleccionesI01NumerosLocosEjer36.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\coleccionesI01NumerosLocosEjer36\bin\Debug\net5.0\ref\coleccionesI01NumerosLocosEjer36.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\coleccionesI01NumerosLocosEjer36\bin\Debug\net5.0\coleccionesI01NumerosLocosEjer36.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\coleccionesI01NumerosLocosEjer36\obj\Debug\net5.0\coleccionesI01NumerosLocosEjer36.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\coleccionesI01NumerosLocosEjer36\obj\Debug\net5.0\coleccionesI01NumerosLocosEjer36.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\coleccionesI01NumerosLocosEjer36\obj\Debug\net5.0\coleccionesI01NumerosLocosEjer36.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\coleccionesI01NumerosLocosEjer36\obj\Debug\net5.0\coleccionesI01NumerosLocosEjer36.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\coleccionesI01NumerosLocosEjer36\obj\Debug\net5.0\coleccionesI01NumerosLocosEjer36.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\coleccionesI01NumerosLocosEjer36\obj\Debug\net5.0\ref\coleccionesI01NumerosLocosEjer36.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\coleccionesI01NumerosLocosEjer36\obj\Debug\net5.0\coleccionesI01NumerosLocosEjer36.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\coleccionesI01NumerosLocosEjer36\obj\Debug\net5.0\coleccionesI01NumerosLocosEjer36.genruntimeconfig.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\coleccionesI01NumerosLocosEjer36\obj\Debug\net5.0\coleccionesI01NumerosLocosEjer36.csproj.AssemblyReference.cache

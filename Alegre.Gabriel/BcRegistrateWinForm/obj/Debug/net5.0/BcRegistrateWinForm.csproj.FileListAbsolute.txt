@@ -1,0 +1,12 @@
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcRegistrateWinForm\bin\Debug\net5.0\BcRegistrateWinForm.deps.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcRegistrateWinForm\bin\Debug\net5.0\BcRegistrateWinForm.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcRegistrateWinForm\bin\Debug\net5.0\ref\BcRegistrateWinForm.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcRegistrateWinForm\bin\Debug\net5.0\BcRegistrateWinForm.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcRegistrateWinForm\obj\Debug\net5.0\BcRegistrateWinForm.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcRegistrateWinForm\obj\Debug\net5.0\BcRegistrateWinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcRegistrateWinForm\obj\Debug\net5.0\BcRegistrateWinForm.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcRegistrateWinForm\obj\Debug\net5.0\BcRegistrateWinForm.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcRegistrateWinForm\obj\Debug\net5.0\BcRegistrateWinForm.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcRegistrateWinForm\obj\Debug\net5.0\BcRegistrateWinForm.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcRegistrateWinForm\obj\Debug\net5.0\ref\BcRegistrateWinForm.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcRegistrateWinForm\obj\Debug\net5.0\BcRegistrateWinForm.pdb

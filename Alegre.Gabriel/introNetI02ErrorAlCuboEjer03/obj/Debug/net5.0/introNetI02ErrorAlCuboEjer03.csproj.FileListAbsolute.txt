@@ -1,0 +1,16 @@
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI02ErrorAlCuboEjer03\obj\Debug\net5.0\introNetI02ErrorAlCuboEjer03.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI02ErrorAlCuboEjer03\obj\Debug\net5.0\introNetI02ErrorAlCuboEjer03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI02ErrorAlCuboEjer03\obj\Debug\net5.0\introNetI02ErrorAlCuboEjer03.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI02ErrorAlCuboEjer03\obj\Debug\net5.0\introNetI02ErrorAlCuboEjer03.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI02ErrorAlCuboEjer03\obj\Debug\net5.0\introNetI02ErrorAlCuboEjer03.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI02ErrorAlCuboEjer03\bin\Debug\net5.0\introNetI02ErrorAlCuboEjer03.exe
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI02ErrorAlCuboEjer03\bin\Debug\net5.0\introNetI02ErrorAlCuboEjer03.deps.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI02ErrorAlCuboEjer03\bin\Debug\net5.0\introNetI02ErrorAlCuboEjer03.runtimeconfig.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI02ErrorAlCuboEjer03\bin\Debug\net5.0\introNetI02ErrorAlCuboEjer03.runtimeconfig.dev.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI02ErrorAlCuboEjer03\bin\Debug\net5.0\introNetI02ErrorAlCuboEjer03.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI02ErrorAlCuboEjer03\bin\Debug\net5.0\ref\introNetI02ErrorAlCuboEjer03.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI02ErrorAlCuboEjer03\bin\Debug\net5.0\introNetI02ErrorAlCuboEjer03.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI02ErrorAlCuboEjer03\obj\Debug\net5.0\introNetI02ErrorAlCuboEjer03.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI02ErrorAlCuboEjer03\obj\Debug\net5.0\ref\introNetI02ErrorAlCuboEjer03.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI02ErrorAlCuboEjer03\obj\Debug\net5.0\introNetI02ErrorAlCuboEjer03.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI02ErrorAlCuboEjer03\obj\Debug\net5.0\introNetI02ErrorAlCuboEjer03.genruntimeconfig.cache

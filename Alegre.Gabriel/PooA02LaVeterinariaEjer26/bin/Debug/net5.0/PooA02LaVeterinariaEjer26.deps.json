@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PooA02LaVeterinariaEjer26/1.0.0": {
+        "dependencies": {
+          "BcLaVeterinaria": "1.0.0"
+        },
+        "runtime": {
+          "PooA02LaVeterinariaEjer26.dll": {}
+        }
+      },
+      "BcLaVeterinaria/1.0.0": {
+        "runtime": {
+          "BcLaVeterinaria.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PooA02LaVeterinariaEjer26/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BcLaVeterinaria/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

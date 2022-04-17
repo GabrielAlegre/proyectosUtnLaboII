@@ -1,0 +1,12 @@
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcLaEstanteria\bin\Debug\net5.0\BcLaEstanteria.deps.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcLaEstanteria\bin\Debug\net5.0\BcLaEstanteria.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcLaEstanteria\bin\Debug\net5.0\ref\BcLaEstanteria.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcLaEstanteria\bin\Debug\net5.0\BcLaEstanteria.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcLaEstanteria\obj\Debug\net5.0\BcLaEstanteria.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcLaEstanteria\obj\Debug\net5.0\BcLaEstanteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcLaEstanteria\obj\Debug\net5.0\BcLaEstanteria.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcLaEstanteria\obj\Debug\net5.0\BcLaEstanteria.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcLaEstanteria\obj\Debug\net5.0\BcLaEstanteria.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcLaEstanteria\obj\Debug\net5.0\BcLaEstanteria.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcLaEstanteria\obj\Debug\net5.0\ref\BcLaEstanteria.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcLaEstanteria\obj\Debug\net5.0\BcLaEstanteria.pdb

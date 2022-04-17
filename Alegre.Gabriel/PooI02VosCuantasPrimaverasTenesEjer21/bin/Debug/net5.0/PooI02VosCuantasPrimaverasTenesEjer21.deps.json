@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PooI02VosCuantasPrimaverasTenesEjer21/1.0.0": {
+        "dependencies": {
+          "BcVosCuantasPrimaverasTenes": "1.0.0"
+        },
+        "runtime": {
+          "PooI02VosCuantasPrimaverasTenesEjer21.dll": {}
+        }
+      },
+      "BcVosCuantasPrimaverasTenes/1.0.0": {
+        "runtime": {
+          "BcVosCuantasPrimaverasTenes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PooI02VosCuantasPrimaverasTenesEjer21/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BcVosCuantasPrimaverasTenes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

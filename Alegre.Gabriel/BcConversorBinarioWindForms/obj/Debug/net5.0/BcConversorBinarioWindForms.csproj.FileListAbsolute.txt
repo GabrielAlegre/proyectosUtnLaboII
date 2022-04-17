@@ -1,0 +1,11 @@
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcConversorBinarioWindForms\bin\Debug\net5.0\BcConversorBinarioWindForms.deps.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcConversorBinarioWindForms\bin\Debug\net5.0\BcConversorBinarioWindForms.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcConversorBinarioWindForms\bin\Debug\net5.0\ref\BcConversorBinarioWindForms.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcConversorBinarioWindForms\bin\Debug\net5.0\BcConversorBinarioWindForms.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcConversorBinarioWindForms\obj\Debug\net5.0\BcConversorBinarioWindForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcConversorBinarioWindForms\obj\Debug\net5.0\BcConversorBinarioWindForms.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcConversorBinarioWindForms\obj\Debug\net5.0\BcConversorBinarioWindForms.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcConversorBinarioWindForms\obj\Debug\net5.0\BcConversorBinarioWindForms.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcConversorBinarioWindForms\obj\Debug\net5.0\BcConversorBinarioWindForms.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcConversorBinarioWindForms\obj\Debug\net5.0\ref\BcConversorBinarioWindForms.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcConversorBinarioWindForms\obj\Debug\net5.0\BcConversorBinarioWindForms.pdb

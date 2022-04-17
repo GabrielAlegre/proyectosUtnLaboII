@@ -1,0 +1,16 @@
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticI08ElTiempoPasaEjer18\bin\Debug\net5.0\staticI08ElTiempoPasaEjer18.exe
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticI08ElTiempoPasaEjer18\bin\Debug\net5.0\staticI08ElTiempoPasaEjer18.deps.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticI08ElTiempoPasaEjer18\bin\Debug\net5.0\staticI08ElTiempoPasaEjer18.runtimeconfig.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticI08ElTiempoPasaEjer18\bin\Debug\net5.0\staticI08ElTiempoPasaEjer18.runtimeconfig.dev.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticI08ElTiempoPasaEjer18\bin\Debug\net5.0\staticI08ElTiempoPasaEjer18.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticI08ElTiempoPasaEjer18\bin\Debug\net5.0\ref\staticI08ElTiempoPasaEjer18.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticI08ElTiempoPasaEjer18\bin\Debug\net5.0\staticI08ElTiempoPasaEjer18.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticI08ElTiempoPasaEjer18\obj\Debug\net5.0\staticI08ElTiempoPasaEjer18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticI08ElTiempoPasaEjer18\obj\Debug\net5.0\staticI08ElTiempoPasaEjer18.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticI08ElTiempoPasaEjer18\obj\Debug\net5.0\staticI08ElTiempoPasaEjer18.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticI08ElTiempoPasaEjer18\obj\Debug\net5.0\staticI08ElTiempoPasaEjer18.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticI08ElTiempoPasaEjer18\obj\Debug\net5.0\staticI08ElTiempoPasaEjer18.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticI08ElTiempoPasaEjer18\obj\Debug\net5.0\ref\staticI08ElTiempoPasaEjer18.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticI08ElTiempoPasaEjer18\obj\Debug\net5.0\staticI08ElTiempoPasaEjer18.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticI08ElTiempoPasaEjer18\obj\Debug\net5.0\staticI08ElTiempoPasaEjer18.genruntimeconfig.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticI08ElTiempoPasaEjer18\obj\Debug\net5.0\staticI08ElTiempoPasaEjer18.csproj.AssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\clase07sobrecargaColeccionBc\bin\Debug\net5.0\clase07sobrecargaColeccionBc.deps.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\clase07sobrecargaColeccionBc\bin\Debug\net5.0\clase07sobrecargaColeccionBc.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\clase07sobrecargaColeccionBc\bin\Debug\net5.0\ref\clase07sobrecargaColeccionBc.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\clase07sobrecargaColeccionBc\bin\Debug\net5.0\clase07sobrecargaColeccionBc.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\clase07sobrecargaColeccionBc\obj\Debug\net5.0\clase07sobrecargaColeccionBc.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\clase07sobrecargaColeccionBc\obj\Debug\net5.0\clase07sobrecargaColeccionBc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\clase07sobrecargaColeccionBc\obj\Debug\net5.0\clase07sobrecargaColeccionBc.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\clase07sobrecargaColeccionBc\obj\Debug\net5.0\clase07sobrecargaColeccionBc.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\clase07sobrecargaColeccionBc\obj\Debug\net5.0\clase07sobrecargaColeccionBc.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\clase07sobrecargaColeccionBc\obj\Debug\net5.0\clase07sobrecargaColeccionBc.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\clase07sobrecargaColeccionBc\obj\Debug\net5.0\ref\clase07sobrecargaColeccionBc.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\clase07sobrecargaColeccionBc\obj\Debug\net5.0\clase07sobrecargaColeccionBc.pdb

@@ -1,0 +1,11 @@
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcEjemploUniversal\bin\Debug\net5.0\BcEjemploUniversal.deps.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcEjemploUniversal\bin\Debug\net5.0\BcEjemploUniversal.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcEjemploUniversal\bin\Debug\net5.0\ref\BcEjemploUniversal.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcEjemploUniversal\bin\Debug\net5.0\BcEjemploUniversal.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcEjemploUniversal\obj\Debug\net5.0\BcEjemploUniversal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcEjemploUniversal\obj\Debug\net5.0\BcEjemploUniversal.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcEjemploUniversal\obj\Debug\net5.0\BcEjemploUniversal.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcEjemploUniversal\obj\Debug\net5.0\BcEjemploUniversal.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcEjemploUniversal\obj\Debug\net5.0\BcEjemploUniversal.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcEjemploUniversal\obj\Debug\net5.0\ref\BcEjemploUniversal.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcEjemploUniversal\obj\Debug\net5.0\BcEjemploUniversal.pdb

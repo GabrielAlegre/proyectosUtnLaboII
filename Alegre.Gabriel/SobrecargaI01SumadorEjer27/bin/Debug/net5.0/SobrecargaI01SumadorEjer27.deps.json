@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SobrecargaI01SumadorEjer27/1.0.0": {
+        "dependencies": {
+          "BcSumador": "1.0.0"
+        },
+        "runtime": {
+          "SobrecargaI01SumadorEjer27.dll": {}
+        }
+      },
+      "BcSumador/1.0.0": {
+        "runtime": {
+          "BcSumador.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SobrecargaI01SumadorEjer27/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BcSumador/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

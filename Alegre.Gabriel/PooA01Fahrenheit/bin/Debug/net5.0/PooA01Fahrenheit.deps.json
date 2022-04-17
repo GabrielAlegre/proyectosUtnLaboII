@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PooA01Fahrenheit/1.0.0": {
+        "dependencies": {
+          "BcFahrenheit": "1.0.0"
+        },
+        "runtime": {
+          "PooA01Fahrenheit.dll": {}
+        }
+      },
+      "BcFahrenheit/1.0.0": {
+        "runtime": {
+          "BcFahrenheit.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PooA01Fahrenheit/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BcFahrenheit/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

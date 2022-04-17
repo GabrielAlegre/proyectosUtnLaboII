@@ -1,0 +1,12 @@
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcInventoArgentino\obj\Debug\net5.0\BcInventoArgentino.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcInventoArgentino\obj\Debug\net5.0\BcInventoArgentino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcInventoArgentino\obj\Debug\net5.0\BcInventoArgentino.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcInventoArgentino\obj\Debug\net5.0\BcInventoArgentino.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcInventoArgentino\obj\Debug\net5.0\BcInventoArgentino.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcInventoArgentino\bin\Debug\net5.0\BcInventoArgentino.deps.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcInventoArgentino\bin\Debug\net5.0\BcInventoArgentino.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcInventoArgentino\bin\Debug\net5.0\ref\BcInventoArgentino.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcInventoArgentino\bin\Debug\net5.0\BcInventoArgentino.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcInventoArgentino\obj\Debug\net5.0\BcInventoArgentino.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcInventoArgentino\obj\Debug\net5.0\ref\BcInventoArgentino.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcInventoArgentino\obj\Debug\net5.0\BcInventoArgentino.pdb

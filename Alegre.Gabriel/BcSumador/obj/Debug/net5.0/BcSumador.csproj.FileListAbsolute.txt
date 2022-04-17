@@ -1,0 +1,12 @@
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcSumador\bin\Debug\net5.0\BcSumador.deps.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcSumador\bin\Debug\net5.0\BcSumador.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcSumador\bin\Debug\net5.0\ref\BcSumador.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcSumador\bin\Debug\net5.0\BcSumador.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcSumador\obj\Debug\net5.0\BcSumador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcSumador\obj\Debug\net5.0\BcSumador.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcSumador\obj\Debug\net5.0\BcSumador.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcSumador\obj\Debug\net5.0\BcSumador.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcSumador\obj\Debug\net5.0\BcSumador.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcSumador\obj\Debug\net5.0\ref\BcSumador.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcSumador\obj\Debug\net5.0\BcSumador.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcSumador\obj\Debug\net5.0\BcSumador.csproj.AssemblyReference.cache

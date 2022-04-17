@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "introNetI08TrianguloRectanguloEjer09/1.0.0": {
+        "runtime": {
+          "introNetI08TrianguloRectanguloEjer09.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "introNetI08TrianguloRectanguloEjer09/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

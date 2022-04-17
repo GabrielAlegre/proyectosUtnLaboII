@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "WinFormsC01CotizadorDesktopEjer33/1.0.0": {
+        "dependencies": {
+          "BcCotizadorDesktop": "1.0.0"
+        },
+        "runtime": {
+          "WinFormsC01CotizadorDesktopEjer33.dll": {}
+        }
+      },
+      "BcCotizadorDesktop/1.0.0": {
+        "runtime": {
+          "BcCotizadorDesktop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinFormsC01CotizadorDesktopEjer33/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BcCotizadorDesktop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

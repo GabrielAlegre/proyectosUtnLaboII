@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ejerClase05/1.0.0": {
+        "dependencies": {
+          "clase05Bc": "1.0.0"
+        },
+        "runtime": {
+          "ejerClase05.dll": {}
+        }
+      },
+      "clase05Bc/1.0.0": {
+        "runtime": {
+          "clase05Bc.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ejerClase05/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "clase05Bc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

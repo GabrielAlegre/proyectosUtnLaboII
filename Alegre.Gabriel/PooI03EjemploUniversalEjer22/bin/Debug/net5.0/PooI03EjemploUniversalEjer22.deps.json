@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PooI03EjemploUniversalEjer22/1.0.0": {
+        "dependencies": {
+          "BcEjemploUniversal": "1.0.0"
+        },
+        "runtime": {
+          "PooI03EjemploUniversalEjer22.dll": {}
+        }
+      },
+      "BcEjemploUniversal/1.0.0": {
+        "runtime": {
+          "BcEjemploUniversal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PooI03EjemploUniversalEjer22/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BcEjemploUniversal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SobrecargaC02LaEstanteriaEjer30/1.0.0": {
+        "dependencies": {
+          "BcLaEstanteria": "1.0.0"
+        },
+        "runtime": {
+          "SobrecargaC02LaEstanteriaEjer30.dll": {}
+        }
+      },
+      "BcLaEstanteria/1.0.0": {
+        "runtime": {
+          "BcLaEstanteria.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SobrecargaC02LaEstanteriaEjer30/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BcLaEstanteria/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

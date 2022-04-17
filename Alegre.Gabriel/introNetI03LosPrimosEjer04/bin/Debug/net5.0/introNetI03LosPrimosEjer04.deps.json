@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "introNetI03LosPrimosEjer04/1.0.0": {
+        "runtime": {
+          "introNetI03LosPrimosEjer04.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "introNetI03LosPrimosEjer04/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

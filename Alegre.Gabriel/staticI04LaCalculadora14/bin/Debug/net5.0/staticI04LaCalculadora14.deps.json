@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "staticI04LaCalculadora14/1.0.0": {
+        "runtime": {
+          "staticI04LaCalculadora14.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "staticI04LaCalculadora14/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

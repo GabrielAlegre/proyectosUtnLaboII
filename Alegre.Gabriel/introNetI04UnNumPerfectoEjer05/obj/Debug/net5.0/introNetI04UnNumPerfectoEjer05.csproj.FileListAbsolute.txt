@@ -1,0 +1,15 @@
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI04UnNumPerfectoEjer05\bin\Debug\net5.0\introNetI04UnNumPerfectoEjer05.exe
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI04UnNumPerfectoEjer05\bin\Debug\net5.0\introNetI04UnNumPerfectoEjer05.deps.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI04UnNumPerfectoEjer05\bin\Debug\net5.0\introNetI04UnNumPerfectoEjer05.runtimeconfig.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI04UnNumPerfectoEjer05\bin\Debug\net5.0\introNetI04UnNumPerfectoEjer05.runtimeconfig.dev.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI04UnNumPerfectoEjer05\bin\Debug\net5.0\introNetI04UnNumPerfectoEjer05.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI04UnNumPerfectoEjer05\bin\Debug\net5.0\ref\introNetI04UnNumPerfectoEjer05.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI04UnNumPerfectoEjer05\bin\Debug\net5.0\introNetI04UnNumPerfectoEjer05.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI04UnNumPerfectoEjer05\obj\Debug\net5.0\introNetI04UnNumPerfectoEjer05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI04UnNumPerfectoEjer05\obj\Debug\net5.0\introNetI04UnNumPerfectoEjer05.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI04UnNumPerfectoEjer05\obj\Debug\net5.0\introNetI04UnNumPerfectoEjer05.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI04UnNumPerfectoEjer05\obj\Debug\net5.0\introNetI04UnNumPerfectoEjer05.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI04UnNumPerfectoEjer05\obj\Debug\net5.0\introNetI04UnNumPerfectoEjer05.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI04UnNumPerfectoEjer05\obj\Debug\net5.0\ref\introNetI04UnNumPerfectoEjer05.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI04UnNumPerfectoEjer05\obj\Debug\net5.0\introNetI04UnNumPerfectoEjer05.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI04UnNumPerfectoEjer05\obj\Debug\net5.0\introNetI04UnNumPerfectoEjer05.genruntimeconfig.cache

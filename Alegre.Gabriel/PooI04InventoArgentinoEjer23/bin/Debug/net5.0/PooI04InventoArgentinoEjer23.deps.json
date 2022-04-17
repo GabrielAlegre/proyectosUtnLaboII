@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PooI04InventoArgentinoEjer23/1.0.0": {
+        "dependencies": {
+          "BcInventoArgentino": "1.0.0"
+        },
+        "runtime": {
+          "PooI04InventoArgentinoEjer23.dll": {}
+        }
+      },
+      "BcInventoArgentino/1.0.0": {
+        "runtime": {
+          "BcInventoArgentino.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PooI04InventoArgentinoEjer23/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BcInventoArgentino/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

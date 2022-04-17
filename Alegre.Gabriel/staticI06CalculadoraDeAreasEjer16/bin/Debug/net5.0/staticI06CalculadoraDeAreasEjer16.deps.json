@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "staticI06CalculadoraDeAreasEjer16/1.0.0": {
+        "runtime": {
+          "staticI06CalculadoraDeAreasEjer16.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "staticI06CalculadoraDeAreasEjer16/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

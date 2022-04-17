@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "WinFormsC02VulcanoEjer34/1.0.0": {
+        "dependencies": {
+          "BcVulcano": "1.0.0"
+        },
+        "runtime": {
+          "WinFormsC02VulcanoEjer34.dll": {}
+        }
+      },
+      "BcVulcano/1.0.0": {
+        "runtime": {
+          "BcVulcano.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinFormsC02VulcanoEjer34/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BcVulcano/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

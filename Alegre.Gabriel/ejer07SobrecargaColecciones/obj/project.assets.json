@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "clase07sobrecargaColeccionBc/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/clase07sobrecargaColeccionBc.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/clase07sobrecargaColeccionBc.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "clase07sobrecargaColeccionBc/1.0.0": {
+      "type": "project",
+      "path": "../clase07sobrecargaColeccionBc/clase07sobrecargaColeccionBc.csproj",
+      "msbuildProject": "../clase07sobrecargaColeccionBc/clase07sobrecargaColeccionBc.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "clase07sobrecargaColeccionBc >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Gabriel\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Gabriel\\source\\repos\\Cursada\\Alegre.Gabriel\\ejer07SobrecargaColecciones\\ejer07SobrecargaColecciones.csproj",
+      "projectName": "ejer07SobrecargaColecciones",
+      "projectPath": "C:\\Users\\Gabriel\\source\\repos\\Cursada\\Alegre.Gabriel\\ejer07SobrecargaColecciones\\ejer07SobrecargaColecciones.csproj",
+      "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Gabriel\\source\\repos\\Cursada\\Alegre.Gabriel\\ejer07SobrecargaColecciones\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\Gabriel\\source\\repos\\Cursada\\Alegre.Gabriel\\clase07sobrecargaColeccionBc\\clase07sobrecargaColeccionBc.csproj": {
+              "projectPath": "C:\\Users\\Gabriel\\source\\repos\\Cursada\\Alegre.Gabriel\\clase07sobrecargaColeccionBc\\clase07sobrecargaColeccionBc.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

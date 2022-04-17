@@ -1,0 +1,16 @@
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticI03ConversorBinarioEjer013\obj\Debug\net5.0\staticI03ConversorBinarioEjer013.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticI03ConversorBinarioEjer013\obj\Debug\net5.0\staticI03ConversorBinarioEjer013.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticI03ConversorBinarioEjer013\obj\Debug\net5.0\staticI03ConversorBinarioEjer013.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticI03ConversorBinarioEjer013\obj\Debug\net5.0\staticI03ConversorBinarioEjer013.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticI03ConversorBinarioEjer013\obj\Debug\net5.0\staticI03ConversorBinarioEjer013.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticI03ConversorBinarioEjer013\bin\Debug\net5.0\staticI03ConversorBinarioEjer013.exe
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticI03ConversorBinarioEjer013\bin\Debug\net5.0\staticI03ConversorBinarioEjer013.deps.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticI03ConversorBinarioEjer013\bin\Debug\net5.0\staticI03ConversorBinarioEjer013.runtimeconfig.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticI03ConversorBinarioEjer013\bin\Debug\net5.0\staticI03ConversorBinarioEjer013.runtimeconfig.dev.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticI03ConversorBinarioEjer013\bin\Debug\net5.0\staticI03ConversorBinarioEjer013.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticI03ConversorBinarioEjer013\bin\Debug\net5.0\ref\staticI03ConversorBinarioEjer013.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticI03ConversorBinarioEjer013\bin\Debug\net5.0\staticI03ConversorBinarioEjer013.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticI03ConversorBinarioEjer013\obj\Debug\net5.0\staticI03ConversorBinarioEjer013.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticI03ConversorBinarioEjer013\obj\Debug\net5.0\ref\staticI03ConversorBinarioEjer013.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticI03ConversorBinarioEjer013\obj\Debug\net5.0\staticI03ConversorBinarioEjer013.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\staticI03ConversorBinarioEjer013\obj\Debug\net5.0\staticI03ConversorBinarioEjer013.genruntimeconfig.cache

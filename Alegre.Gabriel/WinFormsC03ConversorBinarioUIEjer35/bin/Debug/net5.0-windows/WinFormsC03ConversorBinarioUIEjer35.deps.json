@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "WinFormsC03ConversorBinarioUIEjer35/1.0.0": {
+        "dependencies": {
+          "BcConversorBinarioWindForms": "1.0.0"
+        },
+        "runtime": {
+          "WinFormsC03ConversorBinarioUIEjer35.dll": {}
+        }
+      },
+      "BcConversorBinarioWindForms/1.0.0": {
+        "runtime": {
+          "BcConversorBinarioWindForms.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinFormsC03ConversorBinarioUIEjer35/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BcConversorBinarioWindForms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

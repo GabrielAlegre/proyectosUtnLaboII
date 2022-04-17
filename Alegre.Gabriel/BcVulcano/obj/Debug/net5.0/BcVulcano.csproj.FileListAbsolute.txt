@@ -1,0 +1,12 @@
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcVulcano\bin\Debug\net5.0\BcVulcano.deps.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcVulcano\bin\Debug\net5.0\BcVulcano.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcVulcano\bin\Debug\net5.0\ref\BcVulcano.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcVulcano\bin\Debug\net5.0\BcVulcano.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcVulcano\obj\Debug\net5.0\BcVulcano.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcVulcano\obj\Debug\net5.0\BcVulcano.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcVulcano\obj\Debug\net5.0\BcVulcano.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcVulcano\obj\Debug\net5.0\BcVulcano.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcVulcano\obj\Debug\net5.0\BcVulcano.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcVulcano\obj\Debug\net5.0\BcVulcano.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcVulcano\obj\Debug\net5.0\ref\BcVulcano.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcVulcano\obj\Debug\net5.0\BcVulcano.pdb

@@ -1,0 +1,15 @@
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI05TirameUnCentroEjer06\bin\Debug\net5.0\introNetI05TirameUnCentroEjer06.exe
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI05TirameUnCentroEjer06\bin\Debug\net5.0\introNetI05TirameUnCentroEjer06.deps.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI05TirameUnCentroEjer06\bin\Debug\net5.0\introNetI05TirameUnCentroEjer06.runtimeconfig.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI05TirameUnCentroEjer06\bin\Debug\net5.0\introNetI05TirameUnCentroEjer06.runtimeconfig.dev.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI05TirameUnCentroEjer06\bin\Debug\net5.0\introNetI05TirameUnCentroEjer06.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI05TirameUnCentroEjer06\bin\Debug\net5.0\ref\introNetI05TirameUnCentroEjer06.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI05TirameUnCentroEjer06\bin\Debug\net5.0\introNetI05TirameUnCentroEjer06.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI05TirameUnCentroEjer06\obj\Debug\net5.0\introNetI05TirameUnCentroEjer06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI05TirameUnCentroEjer06\obj\Debug\net5.0\introNetI05TirameUnCentroEjer06.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI05TirameUnCentroEjer06\obj\Debug\net5.0\introNetI05TirameUnCentroEjer06.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI05TirameUnCentroEjer06\obj\Debug\net5.0\introNetI05TirameUnCentroEjer06.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI05TirameUnCentroEjer06\obj\Debug\net5.0\introNetI05TirameUnCentroEjer06.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI05TirameUnCentroEjer06\obj\Debug\net5.0\ref\introNetI05TirameUnCentroEjer06.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI05TirameUnCentroEjer06\obj\Debug\net5.0\introNetI05TirameUnCentroEjer06.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI05TirameUnCentroEjer06\obj\Debug\net5.0\introNetI05TirameUnCentroEjer06.genruntimeconfig.cache

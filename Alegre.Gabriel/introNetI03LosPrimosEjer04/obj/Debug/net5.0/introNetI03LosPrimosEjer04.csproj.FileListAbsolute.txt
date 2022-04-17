@@ -1,0 +1,15 @@
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI03LosPrimosEjer04\bin\Debug\net5.0\introNetI03LosPrimosEjer04.exe
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI03LosPrimosEjer04\bin\Debug\net5.0\introNetI03LosPrimosEjer04.deps.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI03LosPrimosEjer04\bin\Debug\net5.0\introNetI03LosPrimosEjer04.runtimeconfig.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI03LosPrimosEjer04\bin\Debug\net5.0\introNetI03LosPrimosEjer04.runtimeconfig.dev.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI03LosPrimosEjer04\bin\Debug\net5.0\introNetI03LosPrimosEjer04.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI03LosPrimosEjer04\bin\Debug\net5.0\ref\introNetI03LosPrimosEjer04.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI03LosPrimosEjer04\bin\Debug\net5.0\introNetI03LosPrimosEjer04.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI03LosPrimosEjer04\obj\Debug\net5.0\introNetI03LosPrimosEjer04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI03LosPrimosEjer04\obj\Debug\net5.0\introNetI03LosPrimosEjer04.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI03LosPrimosEjer04\obj\Debug\net5.0\introNetI03LosPrimosEjer04.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI03LosPrimosEjer04\obj\Debug\net5.0\introNetI03LosPrimosEjer04.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI03LosPrimosEjer04\obj\Debug\net5.0\introNetI03LosPrimosEjer04.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI03LosPrimosEjer04\obj\Debug\net5.0\ref\introNetI03LosPrimosEjer04.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI03LosPrimosEjer04\obj\Debug\net5.0\introNetI03LosPrimosEjer04.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\introNetI03LosPrimosEjer04\obj\Debug\net5.0\introNetI03LosPrimosEjer04.genruntimeconfig.cache
