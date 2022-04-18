@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "encapsulamientoC01JugadoresEncapsuladosEjer43/1.0.0": {
+        "dependencies": {
+          "BcJugadoresEncapsuladosC01": "1.0.0"
+        },
+        "runtime": {
+          "encapsulamientoC01JugadoresEncapsuladosEjer43.dll": {}
+        }
+      },
+      "BcJugadoresEncapsuladosC01/1.0.0": {
+        "runtime": {
+          "BcJugadoresEncapsuladosC01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "encapsulamientoC01JugadoresEncapsuladosEjer43/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BcJugadoresEncapsuladosC01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

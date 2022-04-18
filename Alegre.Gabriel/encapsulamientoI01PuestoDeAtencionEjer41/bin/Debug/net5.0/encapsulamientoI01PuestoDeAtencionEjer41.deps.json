@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "encapsulamientoI01PuestoDeAtencionEjer41/1.0.0": {
+        "dependencies": {
+          "BcPuestoDeAtencionI01": "1.0.0"
+        },
+        "runtime": {
+          "encapsulamientoI01PuestoDeAtencionEjer41.dll": {}
+        }
+      },
+      "BcPuestoDeAtencionI01/1.0.0": {
+        "runtime": {
+          "BcPuestoDeAtencionI01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "encapsulamientoI01PuestoDeAtencionEjer41/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BcPuestoDeAtencionI01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

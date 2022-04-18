@@ -1,0 +1,11 @@
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcPuestoDeAtencionI01\bin\Debug\net5.0\BcPuestoDeAtencionI01.deps.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcPuestoDeAtencionI01\bin\Debug\net5.0\BcPuestoDeAtencionI01.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcPuestoDeAtencionI01\bin\Debug\net5.0\ref\BcPuestoDeAtencionI01.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcPuestoDeAtencionI01\bin\Debug\net5.0\BcPuestoDeAtencionI01.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcPuestoDeAtencionI01\obj\Debug\net5.0\BcPuestoDeAtencionI01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcPuestoDeAtencionI01\obj\Debug\net5.0\BcPuestoDeAtencionI01.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcPuestoDeAtencionI01\obj\Debug\net5.0\BcPuestoDeAtencionI01.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcPuestoDeAtencionI01\obj\Debug\net5.0\BcPuestoDeAtencionI01.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcPuestoDeAtencionI01\obj\Debug\net5.0\BcPuestoDeAtencionI01.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcPuestoDeAtencionI01\obj\Debug\net5.0\ref\BcPuestoDeAtencionI01.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcPuestoDeAtencionI01\obj\Debug\net5.0\BcPuestoDeAtencionI01.pdb

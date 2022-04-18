@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "coleccionesC02EnciendanSusMotoresEjer40/1.0.0": {
+        "dependencies": {
+          "BcEnciendanSusMotoresC02": "1.0.0"
+        },
+        "runtime": {
+          "coleccionesC02EnciendanSusMotoresEjer40.dll": {}
+        }
+      },
+      "BcEnciendanSusMotoresC02/1.0.0": {
+        "runtime": {
+          "BcEnciendanSusMotoresC02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "coleccionesC02EnciendanSusMotoresEjer40/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BcEnciendanSusMotoresC02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

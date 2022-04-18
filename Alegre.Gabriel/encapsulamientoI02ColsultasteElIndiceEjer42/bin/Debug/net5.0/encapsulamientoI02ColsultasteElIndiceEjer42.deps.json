@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "encapsulamientoI02ColsultasteElIndiceEjer42/1.0.0": {
+        "dependencies": {
+          "BcConsultasteIndiceI02": "1.0.0"
+        },
+        "runtime": {
+          "encapsulamientoI02ColsultasteElIndiceEjer42.dll": {}
+        }
+      },
+      "BcConsultasteIndiceI02/1.0.0": {
+        "runtime": {
+          "BcConsultasteIndiceI02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "encapsulamientoI02ColsultasteElIndiceEjer42/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BcConsultasteIndiceI02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

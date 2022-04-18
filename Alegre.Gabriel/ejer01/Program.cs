@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Text;
 
 namespace ejer01
@@ -8,17 +9,39 @@ namespace ejer01
         static void Main(string[] args)
         {
 
-            int[] a = new int[5];
-            a[0] = 1;
+            string[] arrayDePalabras = { "Hola", "como", "estas", "como", "malvado" };
+            Dictionary<string, int> diccionarioDePalabras = new Dictionary<string, int>();
 
-            foreach (int item in a)
+            foreach (string unaPalabra in arrayDePalabras)
+            {
+                if (!diccionarioDePalabras.ContainsKey(unaPalabra))
+                {
+                    diccionarioDePalabras.Add(unaPalabra, 1);
+                }
+                else
+                {
+                    diccionarioDePalabras[unaPalabra]++;
+                }
+            }
+
+            foreach (int item in diccionarioDePalabras.Values)
             {
                 Console.WriteLine(item);
             }
 
 
+     
+            //int[] a = new int[5];
+            //a[0] = 1;
 
-            Console.WriteLine(Math.Abs(-56));
+            //foreach (int item in a)
+            //{
+            //    Console.WriteLine(item);
+            //}
+
+
+
+            //Console.WriteLine(Math.Abs(-56));
 
 
 
@@ -32,7 +55,7 @@ namespace ejer01
             //{
             //    sb.AppendLine($"Nombre: {nombre}");
             //}
-            
+
             //sb.AppendLine($"Edad: {edad}");
             //sb.AppendLine($"Dni: {dni}");
 

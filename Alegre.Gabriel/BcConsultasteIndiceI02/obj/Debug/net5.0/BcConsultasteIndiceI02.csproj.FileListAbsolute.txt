@@ -1,0 +1,11 @@
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcConsultasteIndiceI02\bin\Debug\net5.0\BcConsultasteIndiceI02.deps.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcConsultasteIndiceI02\bin\Debug\net5.0\BcConsultasteIndiceI02.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcConsultasteIndiceI02\bin\Debug\net5.0\ref\BcConsultasteIndiceI02.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcConsultasteIndiceI02\bin\Debug\net5.0\BcConsultasteIndiceI02.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcConsultasteIndiceI02\obj\Debug\net5.0\BcConsultasteIndiceI02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcConsultasteIndiceI02\obj\Debug\net5.0\BcConsultasteIndiceI02.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcConsultasteIndiceI02\obj\Debug\net5.0\BcConsultasteIndiceI02.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcConsultasteIndiceI02\obj\Debug\net5.0\BcConsultasteIndiceI02.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcConsultasteIndiceI02\obj\Debug\net5.0\BcConsultasteIndiceI02.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcConsultasteIndiceI02\obj\Debug\net5.0\ref\BcConsultasteIndiceI02.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcConsultasteIndiceI02\obj\Debug\net5.0\BcConsultasteIndiceI02.pdb
