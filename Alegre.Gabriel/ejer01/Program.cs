@@ -24,10 +24,11 @@ namespace ejer01
                 }
             }
 
-            foreach (int item in diccionarioDePalabras.Values)
-            {
-                Console.WriteLine(item);
-            }
+            Console.WriteLine(diccionarioDePalabras["como"]);
+            
+
+
+     
 
 
      

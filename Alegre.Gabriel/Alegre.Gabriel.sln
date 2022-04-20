@@ -137,13 +137,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "encapsulamientoI01PuestoDeA
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BcPuestoDeAtencionI01", "BcPuestoDeAtencionI01\BcPuestoDeAtencionI01.csproj", "{2C43B52E-A5EF-48D7-A4FF-92D47E9C8AF4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "encapsulamientoI02ColsultasteElIndiceEjer42", "encapsulamientoI02ColsultasteElIndiceEjer42\encapsulamientoI02ColsultasteElIndiceEjer42.csproj", "{5AB2FAC5-E43F-450D-964E-CEB4428EAF45}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "encapsulamientoI02ColsultasteElIndiceEjer42", "encapsulamientoI02ColsultasteElIndiceEjer42\encapsulamientoI02ColsultasteElIndiceEjer42.csproj", "{5AB2FAC5-E43F-450D-964E-CEB4428EAF45}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BcConsultasteIndiceI02", "BcConsultasteIndiceI02\BcConsultasteIndiceI02.csproj", "{AA9AA195-DFCF-4513-B041-A0B81CC46CFC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BcConsultasteIndiceI02", "BcConsultasteIndiceI02\BcConsultasteIndiceI02.csproj", "{AA9AA195-DFCF-4513-B041-A0B81CC46CFC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "encapsulamientoC01JugadoresEncapsuladosEjer43", "encapsulamientoC01JugadoresEncapsuladosEjer42\encapsulamientoC01JugadoresEncapsuladosEjer43.csproj", "{E010E2F7-0AFE-4952-88BD-3611237FC7E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "encapsulamientoC01JugadoresEncapsuladosEjer43", "encapsulamientoC01JugadoresEncapsuladosEjer42\encapsulamientoC01JugadoresEncapsuladosEjer43.csproj", "{E010E2F7-0AFE-4952-88BD-3611237FC7E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BcJugadoresEncapsuladosC01", "BcJugadoresEncapsuladosC01\BcJugadoresEncapsuladosC01.csproj", "{9235884D-44C4-42E5-B6BA-C0610F1898A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BcJugadoresEncapsuladosC01", "BcJugadoresEncapsuladosC01\BcJugadoresEncapsuladosC01.csproj", "{9235884D-44C4-42E5-B6BA-C0610F1898A5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "herenciaI01ElViajarEsUnPlacerEjer44", "herenciaI01ElViajarEsUnPlacerEjer44\herenciaI01ElViajarEsUnPlacerEjer44.csproj", "{D432226B-3970-486C-BB43-D3D9A2A569AB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BcElViajarEsUnPlacerI01", "BcElViajarEsUnPlacerI01\BcElViajarEsUnPlacerI01.csproj", "{C2055F7E-77C1-40B3-AB4E-D774936165C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BcEjercicioClaseDeHerencia", "BcEjercicioClaseDeHerencia\BcEjercicioClaseDeHerencia.csproj", "{10496381-9AF1-44D5-9AC1-96B3630A3B3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejercicioEnClaseHerencia", "ejercicioEnClaseHerencia\ejercicioEnClaseHerencia.csproj", "{25B3BF2F-27CB-458A-96CC-A04550D2D207}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -435,6 +443,22 @@ Global
 		{9235884D-44C4-42E5-B6BA-C0610F1898A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9235884D-44C4-42E5-B6BA-C0610F1898A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9235884D-44C4-42E5-B6BA-C0610F1898A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D432226B-3970-486C-BB43-D3D9A2A569AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D432226B-3970-486C-BB43-D3D9A2A569AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D432226B-3970-486C-BB43-D3D9A2A569AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D432226B-3970-486C-BB43-D3D9A2A569AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2055F7E-77C1-40B3-AB4E-D774936165C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2055F7E-77C1-40B3-AB4E-D774936165C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2055F7E-77C1-40B3-AB4E-D774936165C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2055F7E-77C1-40B3-AB4E-D774936165C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10496381-9AF1-44D5-9AC1-96B3630A3B3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10496381-9AF1-44D5-9AC1-96B3630A3B3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10496381-9AF1-44D5-9AC1-96B3630A3B3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10496381-9AF1-44D5-9AC1-96B3630A3B3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25B3BF2F-27CB-458A-96CC-A04550D2D207}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25B3BF2F-27CB-458A-96CC-A04550D2D207}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25B3BF2F-27CB-458A-96CC-A04550D2D207}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25B3BF2F-27CB-458A-96CC-A04550D2D207}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

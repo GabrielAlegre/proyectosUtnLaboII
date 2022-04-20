@@ -1,0 +1,12 @@
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcEjercicioClaseDeHerencia\bin\Debug\net5.0\BcEjercicioClaseDeHerencia.deps.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcEjercicioClaseDeHerencia\bin\Debug\net5.0\BcEjercicioClaseDeHerencia.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcEjercicioClaseDeHerencia\bin\Debug\net5.0\ref\BcEjercicioClaseDeHerencia.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcEjercicioClaseDeHerencia\bin\Debug\net5.0\BcEjercicioClaseDeHerencia.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcEjercicioClaseDeHerencia\obj\Debug\net5.0\BcEjercicioClaseDeHerencia.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcEjercicioClaseDeHerencia\obj\Debug\net5.0\BcEjercicioClaseDeHerencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcEjercicioClaseDeHerencia\obj\Debug\net5.0\BcEjercicioClaseDeHerencia.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcEjercicioClaseDeHerencia\obj\Debug\net5.0\BcEjercicioClaseDeHerencia.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcEjercicioClaseDeHerencia\obj\Debug\net5.0\BcEjercicioClaseDeHerencia.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcEjercicioClaseDeHerencia\obj\Debug\net5.0\BcEjercicioClaseDeHerencia.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcEjercicioClaseDeHerencia\obj\Debug\net5.0\ref\BcEjercicioClaseDeHerencia.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcEjercicioClaseDeHerencia\obj\Debug\net5.0\BcEjercicioClaseDeHerencia.pdb

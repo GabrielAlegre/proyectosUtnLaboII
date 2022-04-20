@@ -44,6 +44,7 @@ namespace ejer07SobrecargaColecciones
             //Máximo 3 temperas
             Paleta paleta = 3;
 
+            paleta = 6;
             //Comparar (paleta - tempera)
             Console.WriteLine(paleta == primerTempera);
 

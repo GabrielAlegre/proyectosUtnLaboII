@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "herenciaI01ElViajarEsUnPlacerEjer44/1.0.0": {
+        "dependencies": {
+          "BcElViajarEsUnPlacerI01": "1.0.0"
+        },
+        "runtime": {
+          "herenciaI01ElViajarEsUnPlacerEjer44.dll": {}
+        }
+      },
+      "BcElViajarEsUnPlacerI01/1.0.0": {
+        "runtime": {
+          "BcElViajarEsUnPlacerI01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "herenciaI01ElViajarEsUnPlacerEjer44/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BcElViajarEsUnPlacerI01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
