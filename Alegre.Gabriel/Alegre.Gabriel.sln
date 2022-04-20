@@ -149,9 +149,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "herenciaI01ElViajarEsUnPlac
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BcElViajarEsUnPlacerI01", "BcElViajarEsUnPlacerI01\BcElViajarEsUnPlacerI01.csproj", "{C2055F7E-77C1-40B3-AB4E-D774936165C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BcEjercicioClaseDeHerencia", "BcEjercicioClaseDeHerencia\BcEjercicioClaseDeHerencia.csproj", "{10496381-9AF1-44D5-9AC1-96B3630A3B3C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BcEjercicioClaseDeHerencia", "BcEjercicioClaseDeHerencia\BcEjercicioClaseDeHerencia.csproj", "{10496381-9AF1-44D5-9AC1-96B3630A3B3C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejercicioEnClaseHerencia", "ejercicioEnClaseHerencia\ejercicioEnClaseHerencia.csproj", "{25B3BF2F-27CB-458A-96CC-A04550D2D207}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ejercicioEnClaseHerencia", "ejercicioEnClaseHerencia\ejercicioEnClaseHerencia.csproj", "{25B3BF2F-27CB-458A-96CC-A04550D2D207}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejercicioClasePolimorfismoCasaMusical", "ejercicioClasePolimorfismoCasaMusical\ejercicioClasePolimorfismoCasaMusical.csproj", "{13AD245E-97E4-46BC-8CD3-AECA0C1CA7A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BcEjercicioClasePolimorfismoCasaMusical", "BcEjercicioClasePolimorfismoCasaMusical\BcEjercicioClasePolimorfismoCasaMusical.csproj", "{41BFA970-5C3A-4BEE-8ADD-531693842186}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -459,6 +463,14 @@ Global
 		{25B3BF2F-27CB-458A-96CC-A04550D2D207}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{25B3BF2F-27CB-458A-96CC-A04550D2D207}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{25B3BF2F-27CB-458A-96CC-A04550D2D207}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13AD245E-97E4-46BC-8CD3-AECA0C1CA7A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13AD245E-97E4-46BC-8CD3-AECA0C1CA7A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13AD245E-97E4-46BC-8CD3-AECA0C1CA7A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13AD245E-97E4-46BC-8CD3-AECA0C1CA7A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41BFA970-5C3A-4BEE-8ADD-531693842186}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41BFA970-5C3A-4BEE-8ADD-531693842186}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41BFA970-5C3A-4BEE-8ADD-531693842186}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41BFA970-5C3A-4BEE-8ADD-531693842186}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

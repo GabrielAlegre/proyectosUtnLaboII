@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ejercicioClasePolimorfismoCasaMusical/1.0.0": {
+        "dependencies": {
+          "BcEjercicioClasePolimorfismoCasaMusical": "1.0.0"
+        },
+        "runtime": {
+          "ejercicioClasePolimorfismoCasaMusical.dll": {}
+        }
+      },
+      "BcEjercicioClasePolimorfismoCasaMusical/1.0.0": {
+        "runtime": {
+          "BcEjercicioClasePolimorfismoCasaMusical.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ejercicioClasePolimorfismoCasaMusical/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BcEjercicioClasePolimorfismoCasaMusical/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

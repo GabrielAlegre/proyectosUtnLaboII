@@ -1,0 +1,11 @@
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcEjercicioClasePolimorfismoCasaMusical\bin\Debug\net5.0\BcEjercicioClasePolimorfismoCasaMusical.deps.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcEjercicioClasePolimorfismoCasaMusical\bin\Debug\net5.0\BcEjercicioClasePolimorfismoCasaMusical.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcEjercicioClasePolimorfismoCasaMusical\bin\Debug\net5.0\ref\BcEjercicioClasePolimorfismoCasaMusical.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcEjercicioClasePolimorfismoCasaMusical\bin\Debug\net5.0\BcEjercicioClasePolimorfismoCasaMusical.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcEjercicioClasePolimorfismoCasaMusical\obj\Debug\net5.0\BcEjercicioClasePolimorfismoCasaMusical.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcEjercicioClasePolimorfismoCasaMusical\obj\Debug\net5.0\BcEjercicioClasePolimorfismoCasaMusical.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcEjercicioClasePolimorfismoCasaMusical\obj\Debug\net5.0\BcEjercicioClasePolimorfismoCasaMusical.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcEjercicioClasePolimorfismoCasaMusical\obj\Debug\net5.0\BcEjercicioClasePolimorfismoCasaMusical.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcEjercicioClasePolimorfismoCasaMusical\obj\Debug\net5.0\BcEjercicioClasePolimorfismoCasaMusical.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcEjercicioClasePolimorfismoCasaMusical\obj\Debug\net5.0\ref\BcEjercicioClasePolimorfismoCasaMusical.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcEjercicioClasePolimorfismoCasaMusical\obj\Debug\net5.0\BcEjercicioClasePolimorfismoCasaMusical.pdb

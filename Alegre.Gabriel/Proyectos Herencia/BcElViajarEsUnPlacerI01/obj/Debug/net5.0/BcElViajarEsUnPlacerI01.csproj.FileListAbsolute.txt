@@ -1,0 +1,12 @@
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcElViajarEsUnPlacerI01\bin\Debug\net5.0\BcElViajarEsUnPlacerI01.deps.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcElViajarEsUnPlacerI01\bin\Debug\net5.0\BcElViajarEsUnPlacerI01.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcElViajarEsUnPlacerI01\bin\Debug\net5.0\ref\BcElViajarEsUnPlacerI01.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcElViajarEsUnPlacerI01\bin\Debug\net5.0\BcElViajarEsUnPlacerI01.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcElViajarEsUnPlacerI01\obj\Debug\net5.0\BcElViajarEsUnPlacerI01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcElViajarEsUnPlacerI01\obj\Debug\net5.0\BcElViajarEsUnPlacerI01.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcElViajarEsUnPlacerI01\obj\Debug\net5.0\BcElViajarEsUnPlacerI01.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcElViajarEsUnPlacerI01\obj\Debug\net5.0\BcElViajarEsUnPlacerI01.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcElViajarEsUnPlacerI01\obj\Debug\net5.0\BcElViajarEsUnPlacerI01.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcElViajarEsUnPlacerI01\obj\Debug\net5.0\ref\BcElViajarEsUnPlacerI01.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcElViajarEsUnPlacerI01\obj\Debug\net5.0\BcElViajarEsUnPlacerI01.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcElViajarEsUnPlacerI01\obj\Debug\net5.0\BcElViajarEsUnPlacerI01.csproj.AssemblyReference.cache
