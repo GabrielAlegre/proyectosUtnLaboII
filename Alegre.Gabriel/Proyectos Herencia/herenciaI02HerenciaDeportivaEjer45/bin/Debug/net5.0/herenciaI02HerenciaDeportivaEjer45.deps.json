@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "herenciaI02HerenciaDeportivaEjer45/1.0.0": {
+        "dependencies": {
+          "BcHerenciaDeportivaI02": "1.0.0"
+        },
+        "runtime": {
+          "herenciaI02HerenciaDeportivaEjer45.dll": {}
+        }
+      },
+      "BcHerenciaDeportivaI02/1.0.0": {
+        "runtime": {
+          "BcHerenciaDeportivaI02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "herenciaI02HerenciaDeportivaEjer45/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BcHerenciaDeportivaI02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

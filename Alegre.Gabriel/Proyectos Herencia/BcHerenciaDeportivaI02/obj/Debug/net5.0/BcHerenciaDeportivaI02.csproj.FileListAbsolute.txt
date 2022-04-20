@@ -1,0 +1,11 @@
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcHerenciaDeportivaI02\bin\Debug\net5.0\BcHerenciaDeportivaI02.deps.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcHerenciaDeportivaI02\bin\Debug\net5.0\BcHerenciaDeportivaI02.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcHerenciaDeportivaI02\bin\Debug\net5.0\ref\BcHerenciaDeportivaI02.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcHerenciaDeportivaI02\bin\Debug\net5.0\BcHerenciaDeportivaI02.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcHerenciaDeportivaI02\obj\Debug\net5.0\BcHerenciaDeportivaI02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcHerenciaDeportivaI02\obj\Debug\net5.0\BcHerenciaDeportivaI02.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcHerenciaDeportivaI02\obj\Debug\net5.0\BcHerenciaDeportivaI02.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcHerenciaDeportivaI02\obj\Debug\net5.0\BcHerenciaDeportivaI02.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcHerenciaDeportivaI02\obj\Debug\net5.0\BcHerenciaDeportivaI02.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcHerenciaDeportivaI02\obj\Debug\net5.0\ref\BcHerenciaDeportivaI02.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcHerenciaDeportivaI02\obj\Debug\net5.0\BcHerenciaDeportivaI02.pdb
