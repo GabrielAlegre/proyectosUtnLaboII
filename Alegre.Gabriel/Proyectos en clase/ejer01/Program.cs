@@ -8,7 +8,7 @@ namespace ejer01
     {
         static void Main(string[] args)
         {
-
+            //Este proyecto es simplemete de pruebas, para despejar dudad, no hay nada interesante
             string[] arrayDePalabras = { "Hola", "como", "estas", "como", "malvado" };
             Dictionary<string, int> diccionarioDePalabras = new Dictionary<string, int>();
 

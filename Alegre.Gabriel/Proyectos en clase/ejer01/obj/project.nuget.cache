@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "yab9u3yZfo9tcC37xUobTVU9w+56C1WC48/t5x2DCkP/CF6ePGMRvTBVa6MIQuQlLkZg1fo2sWR2Ytf+EmwKxA==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\Gabriel\\source\\repos\\Cursada\\Alegre.Gabriel\\ejer01\\ejer01.csproj",
+  "dgSpecHash": "aF2gA6rSeT4GM7XgSTHETRipyPTPGEBGITZqCF7lKMpVSDDMC22O6y6xNxMUa2YMyMWcweTSZp+IvrZC4TsVBA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Gabriel\\source\\repos\\proyectosUtnLaboII\\Alegre.Gabriel\\Proyectos en clase\\ejer01\\ejer01.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "No se encuentra el proyecto \"C:\\Users\\Gabriel\\source\\repos\\proyectosUtnLaboII\\Alegre.Gabriel\\Proyectos en clase\\introNetI09TrianguloEquilateroEjer10\\introNetI09TrianguloEquilateroEjer10.csproj\". Compruebe que la referencia al proyecto sea válida y que exista el archivo de proyecto.",
+      "libraryId": "C:\\Users\\Gabriel\\source\\repos\\proyectosUtnLaboII\\Alegre.Gabriel\\Proyectos en clase\\introNetI09TrianguloEquilateroEjer10\\introNetI09TrianguloEquilateroEjer10.csproj",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
 }

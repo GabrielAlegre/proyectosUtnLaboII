@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gabriel\\source\\repos\\Cursada\\Alegre.Gabriel\\ejer01\\ejer01.csproj": {}
+    "C:\\Users\\Gabriel\\source\\repos\\proyectosUtnLaboII\\Alegre.Gabriel\\Proyectos en clase\\ejer01\\ejer01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gabriel\\source\\repos\\Cursada\\Alegre.Gabriel\\ejer01\\ejer01.csproj": {
+    "C:\\Users\\Gabriel\\source\\repos\\proyectosUtnLaboII\\Alegre.Gabriel\\Proyectos en clase\\ejer01\\ejer01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gabriel\\source\\repos\\Cursada\\Alegre.Gabriel\\ejer01\\ejer01.csproj",
+        "projectUniqueName": "C:\\Users\\Gabriel\\source\\repos\\proyectosUtnLaboII\\Alegre.Gabriel\\Proyectos en clase\\ejer01\\ejer01.csproj",
         "projectName": "ejer01",
-        "projectPath": "C:\\Users\\Gabriel\\source\\repos\\Cursada\\Alegre.Gabriel\\ejer01\\ejer01.csproj",
+        "projectPath": "C:\\Users\\Gabriel\\source\\repos\\proyectosUtnLaboII\\Alegre.Gabriel\\Proyectos en clase\\ejer01\\ejer01.csproj",
         "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gabriel\\source\\repos\\Cursada\\Alegre.Gabriel\\ejer01\\obj\\",
+        "outputPath": "C:\\Users\\Gabriel\\source\\repos\\proyectosUtnLaboII\\Alegre.Gabriel\\Proyectos en clase\\ejer01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,64 +28,10 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Gabriel\\source\\repos\\Cursada\\Alegre.Gabriel\\introNetI09TrianguloEquilateroEjer10\\introNetI09TrianguloEquilateroEjer10.csproj": {
-                "projectPath": "C:\\Users\\Gabriel\\source\\repos\\Cursada\\Alegre.Gabriel\\introNetI09TrianguloEquilateroEjer10\\introNetI09TrianguloEquilateroEjer10.csproj"
+              "C:\\Users\\Gabriel\\source\\repos\\proyectosUtnLaboII\\Alegre.Gabriel\\Proyectos en clase\\introNetI09TrianguloEquilateroEjer10\\introNetI09TrianguloEquilateroEjer10.csproj": {
+                "projectPath": "C:\\Users\\Gabriel\\source\\repos\\proyectosUtnLaboII\\Alegre.Gabriel\\Proyectos en clase\\introNetI09TrianguloEquilateroEjer10\\introNetI09TrianguloEquilateroEjer10.csproj"
               }
             }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\Gabriel\\source\\repos\\Cursada\\Alegre.Gabriel\\introNetI09TrianguloEquilateroEjer10\\introNetI09TrianguloEquilateroEjer10.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\Gabriel\\source\\repos\\Cursada\\Alegre.Gabriel\\introNetI09TrianguloEquilateroEjer10\\introNetI09TrianguloEquilateroEjer10.csproj",
-        "projectName": "introNetI09TrianguloEquilateroEjer10",
-        "projectPath": "C:\\Users\\Gabriel\\source\\repos\\Cursada\\Alegre.Gabriel\\introNetI09TrianguloEquilateroEjer10\\introNetI09TrianguloEquilateroEjer10.csproj",
-        "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gabriel\\source\\repos\\Cursada\\Alegre.Gabriel\\introNetI09TrianguloEquilateroEjer10\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net5.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
-            "projectReferences": {}
           }
         },
         "warningProperties": {
