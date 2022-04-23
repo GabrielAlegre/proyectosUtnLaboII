@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "programa05WindowsFormRadioBotton/1.0.0": {
+        "runtime": {
+          "programa05WindowsFormRadioBotton.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "programa05WindowsFormRadioBotton/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

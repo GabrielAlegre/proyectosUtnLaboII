@@ -1,0 +1,17 @@
+C:\Users\Gabriel\source\repos\programa05WindowsFormRadioBotton\obj\Debug\net5.0-windows\programa05WindowsFormRadioBotton.Form1.resources
+C:\Users\Gabriel\source\repos\programa05WindowsFormRadioBotton\obj\Debug\net5.0-windows\programa05WindowsFormRadioBotton.csproj.GenerateResource.cache
+C:\Users\Gabriel\source\repos\programa05WindowsFormRadioBotton\obj\Debug\net5.0-windows\programa05WindowsFormRadioBotton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\programa05WindowsFormRadioBotton\obj\Debug\net5.0-windows\programa05WindowsFormRadioBotton.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\programa05WindowsFormRadioBotton\obj\Debug\net5.0-windows\programa05WindowsFormRadioBotton.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\programa05WindowsFormRadioBotton\obj\Debug\net5.0-windows\programa05WindowsFormRadioBotton.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\programa05WindowsFormRadioBotton\bin\Debug\net5.0-windows\programa05WindowsFormRadioBotton.exe
+C:\Users\Gabriel\source\repos\programa05WindowsFormRadioBotton\bin\Debug\net5.0-windows\programa05WindowsFormRadioBotton.deps.json
+C:\Users\Gabriel\source\repos\programa05WindowsFormRadioBotton\bin\Debug\net5.0-windows\programa05WindowsFormRadioBotton.runtimeconfig.json
+C:\Users\Gabriel\source\repos\programa05WindowsFormRadioBotton\bin\Debug\net5.0-windows\programa05WindowsFormRadioBotton.runtimeconfig.dev.json
+C:\Users\Gabriel\source\repos\programa05WindowsFormRadioBotton\bin\Debug\net5.0-windows\programa05WindowsFormRadioBotton.dll
+C:\Users\Gabriel\source\repos\programa05WindowsFormRadioBotton\bin\Debug\net5.0-windows\ref\programa05WindowsFormRadioBotton.dll
+C:\Users\Gabriel\source\repos\programa05WindowsFormRadioBotton\bin\Debug\net5.0-windows\programa05WindowsFormRadioBotton.pdb
+C:\Users\Gabriel\source\repos\programa05WindowsFormRadioBotton\obj\Debug\net5.0-windows\programa05WindowsFormRadioBotton.dll
+C:\Users\Gabriel\source\repos\programa05WindowsFormRadioBotton\obj\Debug\net5.0-windows\ref\programa05WindowsFormRadioBotton.dll
+C:\Users\Gabriel\source\repos\programa05WindowsFormRadioBotton\obj\Debug\net5.0-windows\programa05WindowsFormRadioBotton.pdb
+C:\Users\Gabriel\source\repos\programa05WindowsFormRadioBotton\obj\Debug\net5.0-windows\programa05WindowsFormRadioBotton.genruntimeconfig.cache

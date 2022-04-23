@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "WinFormsApp11MenuWindows/1.0.0": {
+        "runtime": {
+          "WinFormsApp11MenuWindows.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinFormsApp11MenuWindows/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

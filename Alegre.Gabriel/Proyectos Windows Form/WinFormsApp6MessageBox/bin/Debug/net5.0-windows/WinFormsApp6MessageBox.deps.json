@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "WinFormsApp6MessageBox/1.0.0": {
+        "runtime": {
+          "WinFormsApp6MessageBox.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinFormsApp6MessageBox/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

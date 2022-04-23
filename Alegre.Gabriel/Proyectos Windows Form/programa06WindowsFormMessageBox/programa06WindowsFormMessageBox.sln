@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "programa06WindowsFormMessageBox", "programa06WindowsFormMessageBox.csproj", "{D9B79467-973E-4596-9D20-2F33EB162D04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9B79467-973E-4596-9D20-2F33EB162D04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9B79467-973E-4596-9D20-2F33EB162D04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9B79467-973E-4596-9D20-2F33EB162D04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9B79467-973E-4596-9D20-2F33EB162D04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4DC046D-5685-46CF-8C16-418DCA3C8C8F}
+	EndGlobalSection
+EndGlobal

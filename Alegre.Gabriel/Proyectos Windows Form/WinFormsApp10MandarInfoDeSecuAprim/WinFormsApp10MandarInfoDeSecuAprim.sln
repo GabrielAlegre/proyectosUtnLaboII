@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp10MandarInfoDeSecuAprim", "WinFormsApp10MandarInfoDeSecuAprim.csproj", "{F4A1DD0E-D773-4706-BA89-2F644B32C96F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4A1DD0E-D773-4706-BA89-2F644B32C96F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4A1DD0E-D773-4706-BA89-2F644B32C96F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4A1DD0E-D773-4706-BA89-2F644B32C96F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4A1DD0E-D773-4706-BA89-2F644B32C96F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4769F74C-CACA-4AA2-BD7B-424FB95222B6}
+	EndGlobalSection
+EndGlobal
