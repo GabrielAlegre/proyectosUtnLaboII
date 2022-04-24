@@ -1,0 +1,11 @@
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcHerenciaGoSpeedRacerGo\bin\Debug\net5.0\BcHerenciaGoSpeedRacerGo.deps.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcHerenciaGoSpeedRacerGo\bin\Debug\net5.0\BcHerenciaGoSpeedRacerGo.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcHerenciaGoSpeedRacerGo\bin\Debug\net5.0\ref\BcHerenciaGoSpeedRacerGo.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcHerenciaGoSpeedRacerGo\bin\Debug\net5.0\BcHerenciaGoSpeedRacerGo.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcHerenciaGoSpeedRacerGo\obj\Debug\net5.0\BcHerenciaGoSpeedRacerGo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcHerenciaGoSpeedRacerGo\obj\Debug\net5.0\BcHerenciaGoSpeedRacerGo.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcHerenciaGoSpeedRacerGo\obj\Debug\net5.0\BcHerenciaGoSpeedRacerGo.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcHerenciaGoSpeedRacerGo\obj\Debug\net5.0\BcHerenciaGoSpeedRacerGo.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcHerenciaGoSpeedRacerGo\obj\Debug\net5.0\BcHerenciaGoSpeedRacerGo.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcHerenciaGoSpeedRacerGo\obj\Debug\net5.0\ref\BcHerenciaGoSpeedRacerGo.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcHerenciaGoSpeedRacerGo\obj\Debug\net5.0\BcHerenciaGoSpeedRacerGo.pdb
