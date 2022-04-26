@@ -1,0 +1,11 @@
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcCalculadoraDeFormas\bin\Debug\net5.0\BcCalculadoraDeFormas.deps.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcCalculadoraDeFormas\bin\Debug\net5.0\BcCalculadoraDeFormas.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcCalculadoraDeFormas\bin\Debug\net5.0\ref\BcCalculadoraDeFormas.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcCalculadoraDeFormas\bin\Debug\net5.0\BcCalculadoraDeFormas.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcCalculadoraDeFormas\obj\Debug\net5.0\BcCalculadoraDeFormas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcCalculadoraDeFormas\obj\Debug\net5.0\BcCalculadoraDeFormas.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcCalculadoraDeFormas\obj\Debug\net5.0\BcCalculadoraDeFormas.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcCalculadoraDeFormas\obj\Debug\net5.0\BcCalculadoraDeFormas.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcCalculadoraDeFormas\obj\Debug\net5.0\BcCalculadoraDeFormas.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcCalculadoraDeFormas\obj\Debug\net5.0\ref\BcCalculadoraDeFormas.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcCalculadoraDeFormas\obj\Debug\net5.0\BcCalculadoraDeFormas.pdb
