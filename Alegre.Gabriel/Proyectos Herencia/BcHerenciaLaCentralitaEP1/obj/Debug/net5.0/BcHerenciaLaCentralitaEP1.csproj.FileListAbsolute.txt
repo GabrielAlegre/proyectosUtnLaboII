@@ -1,0 +1,11 @@
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcHerenciaLaCentralitaEP1\bin\Debug\net5.0\BcHerenciaLaCentralitaEP1.deps.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcHerenciaLaCentralitaEP1\bin\Debug\net5.0\BcHerenciaLaCentralitaEP1.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcHerenciaLaCentralitaEP1\bin\Debug\net5.0\ref\BcHerenciaLaCentralitaEP1.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcHerenciaLaCentralitaEP1\bin\Debug\net5.0\BcHerenciaLaCentralitaEP1.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcHerenciaLaCentralitaEP1\obj\Debug\net5.0\BcHerenciaLaCentralitaEP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcHerenciaLaCentralitaEP1\obj\Debug\net5.0\BcHerenciaLaCentralitaEP1.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcHerenciaLaCentralitaEP1\obj\Debug\net5.0\BcHerenciaLaCentralitaEP1.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcHerenciaLaCentralitaEP1\obj\Debug\net5.0\BcHerenciaLaCentralitaEP1.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcHerenciaLaCentralitaEP1\obj\Debug\net5.0\BcHerenciaLaCentralitaEP1.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcHerenciaLaCentralitaEP1\obj\Debug\net5.0\ref\BcHerenciaLaCentralitaEP1.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcHerenciaLaCentralitaEP1\obj\Debug\net5.0\BcHerenciaLaCentralitaEP1.pdb

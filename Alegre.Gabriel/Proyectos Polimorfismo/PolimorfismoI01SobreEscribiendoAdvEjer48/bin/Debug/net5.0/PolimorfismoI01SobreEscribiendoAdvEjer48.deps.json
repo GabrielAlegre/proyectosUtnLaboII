@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PolimorfismoI01SobreEscribiendoAdvEjer48/1.0.0": {
+        "dependencies": {
+          "BcPolimorfismoSobreEscribiendo": "1.0.0"
+        },
+        "runtime": {
+          "PolimorfismoI01SobreEscribiendoAdvEjer48.dll": {}
+        }
+      },
+      "BcPolimorfismoSobreEscribiendo/1.0.0": {
+        "runtime": {
+          "BcPolimorfismoSobreEscribiendo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PolimorfismoI01SobreEscribiendoAdvEjer48/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BcPolimorfismoSobreEscribiendo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcPolimorfismoSobreEscribiendo\bin\Debug\net5.0\BcPolimorfismoSobreEscribiendo.deps.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcPolimorfismoSobreEscribiendo\bin\Debug\net5.0\BcPolimorfismoSobreEscribiendo.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcPolimorfismoSobreEscribiendo\bin\Debug\net5.0\ref\BcPolimorfismoSobreEscribiendo.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcPolimorfismoSobreEscribiendo\bin\Debug\net5.0\BcPolimorfismoSobreEscribiendo.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcPolimorfismoSobreEscribiendo\obj\Debug\net5.0\BcPolimorfismoSobreEscribiendo.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcPolimorfismoSobreEscribiendo\obj\Debug\net5.0\BcPolimorfismoSobreEscribiendo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcPolimorfismoSobreEscribiendo\obj\Debug\net5.0\BcPolimorfismoSobreEscribiendo.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcPolimorfismoSobreEscribiendo\obj\Debug\net5.0\BcPolimorfismoSobreEscribiendo.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcPolimorfismoSobreEscribiendo\obj\Debug\net5.0\BcPolimorfismoSobreEscribiendo.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcPolimorfismoSobreEscribiendo\obj\Debug\net5.0\BcPolimorfismoSobreEscribiendo.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcPolimorfismoSobreEscribiendo\obj\Debug\net5.0\ref\BcPolimorfismoSobreEscribiendo.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcPolimorfismoSobreEscribiendo\obj\Debug\net5.0\BcPolimorfismoSobreEscribiendo.pdb
