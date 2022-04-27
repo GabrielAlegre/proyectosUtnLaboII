@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ParcialesPracticaMascota/1.0.0": {
+        "dependencies": {
+          "BcParcialPracticaMascotas": "1.0.0"
+        },
+        "runtime": {
+          "ParcialesPracticaMascota.dll": {}
+        }
+      },
+      "BcParcialPracticaMascotas/1.0.0": {
+        "runtime": {
+          "BcParcialPracticaMascotas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ParcialesPracticaMascota/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BcParcialPracticaMascotas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
