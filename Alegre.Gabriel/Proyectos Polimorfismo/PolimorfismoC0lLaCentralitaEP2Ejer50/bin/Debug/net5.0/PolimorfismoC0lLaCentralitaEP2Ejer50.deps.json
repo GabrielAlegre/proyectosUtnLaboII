@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PolimorfismoC0lLaCentralitaEP2Ejer50/1.0.0": {
+        "dependencies": {
+          "BcPolimorfismoLaCentralitaEP2": "1.0.0"
+        },
+        "runtime": {
+          "PolimorfismoC0lLaCentralitaEP2Ejer50.dll": {}
+        }
+      },
+      "BcPolimorfismoLaCentralitaEP2/1.0.0": {
+        "runtime": {
+          "BcPolimorfismoLaCentralitaEP2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PolimorfismoC0lLaCentralitaEP2Ejer50/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BcPolimorfismoLaCentralitaEP2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

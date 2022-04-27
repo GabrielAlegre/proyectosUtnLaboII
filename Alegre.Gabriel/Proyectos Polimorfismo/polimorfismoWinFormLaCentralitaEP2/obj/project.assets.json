@@ -1,0 +1,93 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0-windows7.0": {
+      "BcPolimorfismoLaCentralitaEP2/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/BcPolimorfismoLaCentralitaEP2.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BcPolimorfismoLaCentralitaEP2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BcPolimorfismoLaCentralitaEP2/1.0.0": {
+      "type": "project",
+      "path": "../BcPolimorfismoLaCentralitaEP2/BcPolimorfismoLaCentralitaEP2.csproj",
+      "msbuildProject": "../BcPolimorfismoLaCentralitaEP2/BcPolimorfismoLaCentralitaEP2.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0-windows7.0": [
+      "BcPolimorfismoLaCentralitaEP2 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Gabriel\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Gabriel\\source\\repos\\Cursada\\Alegre.Gabriel\\polimorfismoWinFormLaCentralitaEP2\\polimorfismoWinFormLaCentralitaEP2.csproj",
+      "projectName": "polimorfismoWinFormLaCentralitaEP2",
+      "projectPath": "C:\\Users\\Gabriel\\source\\repos\\Cursada\\Alegre.Gabriel\\polimorfismoWinFormLaCentralitaEP2\\polimorfismoWinFormLaCentralitaEP2.csproj",
+      "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Gabriel\\source\\repos\\Cursada\\Alegre.Gabriel\\polimorfismoWinFormLaCentralitaEP2\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0-windows7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "projectReferences": {
+            "C:\\Users\\Gabriel\\source\\repos\\Cursada\\Alegre.Gabriel\\BcPolimorfismoLaCentralitaEP2\\BcPolimorfismoLaCentralitaEP2.csproj": {
+              "projectPath": "C:\\Users\\Gabriel\\source\\repos\\Cursada\\Alegre.Gabriel\\BcPolimorfismoLaCentralitaEP2\\BcPolimorfismoLaCentralitaEP2.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0-windows7.0": {
+        "targetAlias": "net5.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
