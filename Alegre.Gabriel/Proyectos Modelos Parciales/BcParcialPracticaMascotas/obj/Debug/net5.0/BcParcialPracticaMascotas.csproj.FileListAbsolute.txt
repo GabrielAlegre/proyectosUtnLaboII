@@ -1,0 +1,12 @@
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcParcialPracticaMascotas\bin\Debug\net5.0\BcParcialPracticaMascotas.deps.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcParcialPracticaMascotas\bin\Debug\net5.0\BcParcialPracticaMascotas.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcParcialPracticaMascotas\bin\Debug\net5.0\ref\BcParcialPracticaMascotas.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcParcialPracticaMascotas\bin\Debug\net5.0\BcParcialPracticaMascotas.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcParcialPracticaMascotas\obj\Debug\net5.0\BcParcialPracticaMascotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcParcialPracticaMascotas\obj\Debug\net5.0\BcParcialPracticaMascotas.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcParcialPracticaMascotas\obj\Debug\net5.0\BcParcialPracticaMascotas.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcParcialPracticaMascotas\obj\Debug\net5.0\BcParcialPracticaMascotas.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcParcialPracticaMascotas\obj\Debug\net5.0\BcParcialPracticaMascotas.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcParcialPracticaMascotas\obj\Debug\net5.0\ref\BcParcialPracticaMascotas.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcParcialPracticaMascotas\obj\Debug\net5.0\BcParcialPracticaMascotas.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcParcialPracticaMascotas\obj\Debug\net5.0\BcParcialPracticaMascotas.csproj.AssemblyReference.cache
