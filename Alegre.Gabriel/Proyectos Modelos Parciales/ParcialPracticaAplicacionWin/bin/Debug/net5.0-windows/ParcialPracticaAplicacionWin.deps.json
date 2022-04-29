@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ParcialPracticaAplicacionWin/1.0.0": {
+        "dependencies": {
+          "BcParcialPracticaAplicacion": "1.0.0"
+        },
+        "runtime": {
+          "ParcialPracticaAplicacionWin.dll": {}
+        }
+      },
+      "BcParcialPracticaAplicacion/1.0.0": {
+        "runtime": {
+          "BcParcialPracticaAplicacion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ParcialPracticaAplicacionWin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BcParcialPracticaAplicacion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
