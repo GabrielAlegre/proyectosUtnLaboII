@@ -1,29 +1,29 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {
-      "introNetI09TrianguloEquilateroEjer10/1.0.0": {
+    "net5.0-windows7.0": {
+      "BcParcialPracticaLibreria/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "compile": {
-          "bin/placeholder/introNetI09TrianguloEquilateroEjer10.dll": {}
+          "bin/placeholder/BcParcialPracticaLibreria.dll": {}
         },
         "runtime": {
-          "bin/placeholder/introNetI09TrianguloEquilateroEjer10.dll": {}
+          "bin/placeholder/BcParcialPracticaLibreria.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "introNetI09TrianguloEquilateroEjer10/1.0.0": {
+    "BcParcialPracticaLibreria/1.0.0": {
       "type": "project",
-      "path": "../introNetI09TrianguloEquilateroEjer10/introNetI09TrianguloEquilateroEjer10.csproj",
-      "msbuildProject": "../introNetI09TrianguloEquilateroEjer10/introNetI09TrianguloEquilateroEjer10.csproj"
+      "path": "../BcParcialPracticaLibreria/BcParcialPracticaLibreria.csproj",
+      "msbuildProject": "../BcParcialPracticaLibreria/BcParcialPracticaLibreria.csproj"
     }
   },
   "projectFileDependencyGroups": {
-    "net5.0": [
-      "introNetI09TrianguloEquilateroEjer10 >= 1.0.0"
+    "net5.0-windows7.0": [
+      "BcParcialPracticaLibreria >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -32,29 +32,29 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gabriel\\source\\repos\\Cursada\\Alegre.Gabriel\\ejer01\\ejer01.csproj",
-      "projectName": "ejer01",
-      "projectPath": "C:\\Users\\Gabriel\\source\\repos\\Cursada\\Alegre.Gabriel\\ejer01\\ejer01.csproj",
+      "projectUniqueName": "C:\\Users\\Gabriel\\source\\repos\\Cursada\\Alegre.Gabriel\\ParcialPracticaLibreriaWin\\ParcialPracticaLibreriaWin.csproj",
+      "projectName": "ParcialPracticaLibreriaWin",
+      "projectPath": "C:\\Users\\Gabriel\\source\\repos\\Cursada\\Alegre.Gabriel\\ParcialPracticaLibreriaWin\\ParcialPracticaLibreriaWin.csproj",
       "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gabriel\\source\\repos\\Cursada\\Alegre.Gabriel\\ejer01\\obj\\",
+      "outputPath": "C:\\Users\\Gabriel\\source\\repos\\Cursada\\Alegre.Gabriel\\ParcialPracticaLibreriaWin\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net5.0"
+        "net5.0-windows7.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "C:\\Users\\Gabriel\\source\\repos\\Cursada\\Alegre.Gabriel\\introNetI09TrianguloEquilateroEjer10\\introNetI09TrianguloEquilateroEjer10.csproj": {
-              "projectPath": "C:\\Users\\Gabriel\\source\\repos\\Cursada\\Alegre.Gabriel\\introNetI09TrianguloEquilateroEjer10\\introNetI09TrianguloEquilateroEjer10.csproj"
+            "C:\\Users\\Gabriel\\source\\repos\\Cursada\\Alegre.Gabriel\\BcParcialPracticaLibreria\\BcParcialPracticaLibreria.csproj": {
+              "projectPath": "C:\\Users\\Gabriel\\source\\repos\\Cursada\\Alegre.Gabriel\\BcParcialPracticaLibreria\\BcParcialPracticaLibreria.csproj"
             }
           }
         }
@@ -66,8 +66,8 @@
       }
     },
     "frameworks": {
-      "net5.0": {
-        "targetAlias": "net5.0",
+      "net5.0-windows7.0": {
+        "targetAlias": "net5.0-windows",
         "imports": [
           "net461",
           "net462",
@@ -81,6 +81,9 @@
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
           }
         },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"

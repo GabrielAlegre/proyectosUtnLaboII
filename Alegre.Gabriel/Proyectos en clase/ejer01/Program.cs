@@ -8,23 +8,28 @@ namespace ejer01
     {
         static void Main(string[] args)
         {
-            //Este proyecto es simplemete de pruebas, para despejar dudad, no hay nada interesante
-            string[] arrayDePalabras = { "Hola", "como", "estas", "como", "malvado" };
-            Dictionary<string, int> diccionarioDePalabras = new Dictionary<string, int>();
 
-            foreach (string unaPalabra in arrayDePalabras)
-            {
-                if (!diccionarioDePalabras.ContainsKey(unaPalabra))
-                {
-                    diccionarioDePalabras.Add(unaPalabra, 1);
-                }
-                else
-                {
-                    diccionarioDePalabras[unaPalabra]++;
-                }
-            }
+            int num =5;
+            int num1 =10;
 
-            Console.WriteLine(diccionarioDePalabras["como"]);
+
+            Console.WriteLine(num1-num>5 ? "algo" : "algo pero en false");
+            //string[] arrayDePalabras = { "Hola", "como", "estas", "como", "malvado" };
+            //Dictionary<string, int> diccionarioDePalabras = new Dictionary<string, int>();
+
+            //foreach (string unaPalabra in arrayDePalabras)
+            //{
+            //    if (!diccionarioDePalabras.ContainsKey(unaPalabra))
+            //    {
+            //        diccionarioDePalabras.Add(unaPalabra, 1);
+            //    }
+            //    else
+            //    {
+            //        diccionarioDePalabras[unaPalabra]++;
+            //    }
+            //}
+
+            //Console.WriteLine(diccionarioDePalabras["como"]);
             
 
 
