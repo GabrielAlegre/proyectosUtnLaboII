@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ParcialPracticaJardinWin/1.0.0": {
+        "dependencies": {
+          "BcParcialPracticaJardin": "1.0.0"
+        },
+        "runtime": {
+          "ParcialPracticaJardinWin.dll": {}
+        }
+      },
+      "BcParcialPracticaJardin/1.0.0": {
+        "runtime": {
+          "BcParcialPracticaJardin.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ParcialPracticaJardinWin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BcParcialPracticaJardin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

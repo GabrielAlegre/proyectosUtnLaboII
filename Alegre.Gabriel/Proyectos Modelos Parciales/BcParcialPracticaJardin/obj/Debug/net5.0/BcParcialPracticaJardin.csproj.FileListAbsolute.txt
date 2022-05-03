@@ -1,0 +1,11 @@
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcParcialPracticaJardin\bin\Debug\net5.0\BcParcialPracticaJardin.deps.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcParcialPracticaJardin\bin\Debug\net5.0\BcParcialPracticaJardin.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcParcialPracticaJardin\bin\Debug\net5.0\ref\BcParcialPracticaJardin.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcParcialPracticaJardin\bin\Debug\net5.0\BcParcialPracticaJardin.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcParcialPracticaJardin\obj\Debug\net5.0\BcParcialPracticaJardin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcParcialPracticaJardin\obj\Debug\net5.0\BcParcialPracticaJardin.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcParcialPracticaJardin\obj\Debug\net5.0\BcParcialPracticaJardin.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcParcialPracticaJardin\obj\Debug\net5.0\BcParcialPracticaJardin.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcParcialPracticaJardin\obj\Debug\net5.0\BcParcialPracticaJardin.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcParcialPracticaJardin\obj\Debug\net5.0\ref\BcParcialPracticaJardin.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcParcialPracticaJardin\obj\Debug\net5.0\BcParcialPracticaJardin.pdb

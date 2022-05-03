@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BcParcialPracticaJardin/1.0.0": {
+        "runtime": {
+          "BcParcialPracticaJardin.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BcParcialPracticaJardin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
