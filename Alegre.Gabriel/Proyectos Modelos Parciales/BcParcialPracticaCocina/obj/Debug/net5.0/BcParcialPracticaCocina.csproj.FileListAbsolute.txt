@@ -1,0 +1,12 @@
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcParcialPracticaCocina\obj\Debug\net5.0\BcParcialPracticaCocina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcParcialPracticaCocina\obj\Debug\net5.0\BcParcialPracticaCocina.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcParcialPracticaCocina\obj\Debug\net5.0\BcParcialPracticaCocina.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcParcialPracticaCocina\obj\Debug\net5.0\BcParcialPracticaCocina.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcParcialPracticaCocina\bin\Debug\net5.0\BcParcialPracticaCocina.deps.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcParcialPracticaCocina\bin\Debug\net5.0\BcParcialPracticaCocina.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcParcialPracticaCocina\bin\Debug\net5.0\ref\BcParcialPracticaCocina.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcParcialPracticaCocina\bin\Debug\net5.0\BcParcialPracticaCocina.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcParcialPracticaCocina\obj\Debug\net5.0\BcParcialPracticaCocina.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcParcialPracticaCocina\obj\Debug\net5.0\ref\BcParcialPracticaCocina.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcParcialPracticaCocina\obj\Debug\net5.0\BcParcialPracticaCocina.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcParcialPracticaCocina\obj\Debug\net5.0\BcParcialPracticaCocina.csproj.AssemblyReference.cache
