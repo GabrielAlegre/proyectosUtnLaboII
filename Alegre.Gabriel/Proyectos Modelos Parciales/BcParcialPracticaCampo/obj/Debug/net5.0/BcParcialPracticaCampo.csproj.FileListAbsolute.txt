@@ -1,0 +1,12 @@
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcParcialPracticaCampo\obj\Debug\net5.0\BcParcialPracticaCampo.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcParcialPracticaCampo\obj\Debug\net5.0\BcParcialPracticaCampo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcParcialPracticaCampo\obj\Debug\net5.0\BcParcialPracticaCampo.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcParcialPracticaCampo\obj\Debug\net5.0\BcParcialPracticaCampo.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcParcialPracticaCampo\obj\Debug\net5.0\BcParcialPracticaCampo.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcParcialPracticaCampo\bin\Debug\net5.0\BcParcialPracticaCampo.deps.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcParcialPracticaCampo\bin\Debug\net5.0\BcParcialPracticaCampo.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcParcialPracticaCampo\bin\Debug\net5.0\ref\BcParcialPracticaCampo.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcParcialPracticaCampo\bin\Debug\net5.0\BcParcialPracticaCampo.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcParcialPracticaCampo\obj\Debug\net5.0\BcParcialPracticaCampo.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcParcialPracticaCampo\obj\Debug\net5.0\ref\BcParcialPracticaCampo.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcParcialPracticaCampo\obj\Debug\net5.0\BcParcialPracticaCampo.pdb
