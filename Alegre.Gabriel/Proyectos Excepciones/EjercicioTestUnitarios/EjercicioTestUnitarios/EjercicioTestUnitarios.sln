@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjercicioTestUnitarios", "EjercicioTestUnitarios.csproj", "{1A61D5E7-ECEA-489E-9BB0-9AA100020AC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebasUnitarias", "..\PruebasUnitarias\PruebasUnitarias.csproj", "{0C477E85-FB0D-4300-8640-9256FD1F98A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A61D5E7-ECEA-489E-9BB0-9AA100020AC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A61D5E7-ECEA-489E-9BB0-9AA100020AC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A61D5E7-ECEA-489E-9BB0-9AA100020AC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A61D5E7-ECEA-489E-9BB0-9AA100020AC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C477E85-FB0D-4300-8640-9256FD1F98A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C477E85-FB0D-4300-8640-9256FD1F98A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C477E85-FB0D-4300-8640-9256FD1F98A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C477E85-FB0D-4300-8640-9256FD1F98A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35919214-4D74-44BB-BE15-367DE1B30ACC}
+	EndGlobalSection
+EndGlobal
