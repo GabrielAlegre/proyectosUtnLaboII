@@ -8,5 +8,13 @@ namespace excepcionesI01LanzarAtrapar
 {
     public class UnaExcepcion:Exception
     {
+        public UnaExcepcion(string mensaje, Exception e):base(mensaje,e)
+        {
+
+        }
+        public UnaExcepcion(string mensaje) : base(mensaje)
+        {
+
+        }
     }
 }

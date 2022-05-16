@@ -1,0 +1,16 @@
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\excepcionesI01LanzarAtrapar\bin\Debug\net5.0\excepcionesI01LanzarAtrapar.exe
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\excepcionesI01LanzarAtrapar\bin\Debug\net5.0\excepcionesI01LanzarAtrapar.deps.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\excepcionesI01LanzarAtrapar\bin\Debug\net5.0\excepcionesI01LanzarAtrapar.runtimeconfig.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\excepcionesI01LanzarAtrapar\bin\Debug\net5.0\excepcionesI01LanzarAtrapar.runtimeconfig.dev.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\excepcionesI01LanzarAtrapar\bin\Debug\net5.0\excepcionesI01LanzarAtrapar.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\excepcionesI01LanzarAtrapar\bin\Debug\net5.0\ref\excepcionesI01LanzarAtrapar.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\excepcionesI01LanzarAtrapar\bin\Debug\net5.0\excepcionesI01LanzarAtrapar.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\excepcionesI01LanzarAtrapar\obj\Debug\net5.0\excepcionesI01LanzarAtrapar.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\excepcionesI01LanzarAtrapar\obj\Debug\net5.0\excepcionesI01LanzarAtrapar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\excepcionesI01LanzarAtrapar\obj\Debug\net5.0\excepcionesI01LanzarAtrapar.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\excepcionesI01LanzarAtrapar\obj\Debug\net5.0\excepcionesI01LanzarAtrapar.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\excepcionesI01LanzarAtrapar\obj\Debug\net5.0\excepcionesI01LanzarAtrapar.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\excepcionesI01LanzarAtrapar\obj\Debug\net5.0\excepcionesI01LanzarAtrapar.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\excepcionesI01LanzarAtrapar\obj\Debug\net5.0\ref\excepcionesI01LanzarAtrapar.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\excepcionesI01LanzarAtrapar\obj\Debug\net5.0\excepcionesI01LanzarAtrapar.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\excepcionesI01LanzarAtrapar\obj\Debug\net5.0\excepcionesI01LanzarAtrapar.genruntimeconfig.cache
