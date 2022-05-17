@@ -1,0 +1,11 @@
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcEjercicioEnClaseTipoGenericos\bin\Debug\net5.0\BcEjercicioEnClaseTipoGenericos.deps.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcEjercicioEnClaseTipoGenericos\bin\Debug\net5.0\BcEjercicioEnClaseTipoGenericos.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcEjercicioEnClaseTipoGenericos\bin\Debug\net5.0\ref\BcEjercicioEnClaseTipoGenericos.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcEjercicioEnClaseTipoGenericos\bin\Debug\net5.0\BcEjercicioEnClaseTipoGenericos.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcEjercicioEnClaseTipoGenericos\obj\Debug\net5.0\BcEjercicioEnClaseTipoGenericos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcEjercicioEnClaseTipoGenericos\obj\Debug\net5.0\BcEjercicioEnClaseTipoGenericos.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcEjercicioEnClaseTipoGenericos\obj\Debug\net5.0\BcEjercicioEnClaseTipoGenericos.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcEjercicioEnClaseTipoGenericos\obj\Debug\net5.0\BcEjercicioEnClaseTipoGenericos.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcEjercicioEnClaseTipoGenericos\obj\Debug\net5.0\BcEjercicioEnClaseTipoGenericos.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcEjercicioEnClaseTipoGenericos\obj\Debug\net5.0\ref\BcEjercicioEnClaseTipoGenericos.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcEjercicioEnClaseTipoGenericos\obj\Debug\net5.0\BcEjercicioEnClaseTipoGenericos.pdb

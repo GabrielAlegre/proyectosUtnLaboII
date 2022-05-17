@@ -1,0 +1,120 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Gabriel\\source\\repos\\Cursada\\Alegre.Gabriel\\ejercicioEnClaseTipoGenericos\\ejercicioEnClaseTipoGenericos.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Gabriel\\source\\repos\\Cursada\\Alegre.Gabriel\\BcEjercicioEnClaseTipoGenericos\\BcEjercicioEnClaseTipoGenericos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gabriel\\source\\repos\\Cursada\\Alegre.Gabriel\\BcEjercicioEnClaseTipoGenericos\\BcEjercicioEnClaseTipoGenericos.csproj",
+        "projectName": "BcEjercicioEnClaseTipoGenericos",
+        "projectPath": "C:\\Users\\Gabriel\\source\\repos\\Cursada\\Alegre.Gabriel\\BcEjercicioEnClaseTipoGenericos\\BcEjercicioEnClaseTipoGenericos.csproj",
+        "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gabriel\\source\\repos\\Cursada\\Alegre.Gabriel\\BcEjercicioEnClaseTipoGenericos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Gabriel\\source\\repos\\Cursada\\Alegre.Gabriel\\ejercicioEnClaseTipoGenericos\\ejercicioEnClaseTipoGenericos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gabriel\\source\\repos\\Cursada\\Alegre.Gabriel\\ejercicioEnClaseTipoGenericos\\ejercicioEnClaseTipoGenericos.csproj",
+        "projectName": "ejercicioEnClaseTipoGenericos",
+        "projectPath": "C:\\Users\\Gabriel\\source\\repos\\Cursada\\Alegre.Gabriel\\ejercicioEnClaseTipoGenericos\\ejercicioEnClaseTipoGenericos.csproj",
+        "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gabriel\\source\\repos\\Cursada\\Alegre.Gabriel\\ejercicioEnClaseTipoGenericos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Gabriel\\source\\repos\\Cursada\\Alegre.Gabriel\\BcEjercicioEnClaseTipoGenericos\\BcEjercicioEnClaseTipoGenericos.csproj": {
+                "projectPath": "C:\\Users\\Gabriel\\source\\repos\\Cursada\\Alegre.Gabriel\\BcEjercicioEnClaseTipoGenericos\\BcEjercicioEnClaseTipoGenericos.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
