@@ -1,0 +1,12 @@
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcExcepcionesLaCentralitaEP3\bin\Debug\net5.0\BcExcepcionesLaCentralitaEP3.deps.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcExcepcionesLaCentralitaEP3\bin\Debug\net5.0\BcExcepcionesLaCentralitaEP3.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcExcepcionesLaCentralitaEP3\bin\Debug\net5.0\ref\BcExcepcionesLaCentralitaEP3.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcExcepcionesLaCentralitaEP3\bin\Debug\net5.0\BcExcepcionesLaCentralitaEP3.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcExcepcionesLaCentralitaEP3\obj\Debug\net5.0\BcExcepcionesLaCentralitaEP3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcExcepcionesLaCentralitaEP3\obj\Debug\net5.0\BcExcepcionesLaCentralitaEP3.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcExcepcionesLaCentralitaEP3\obj\Debug\net5.0\BcExcepcionesLaCentralitaEP3.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcExcepcionesLaCentralitaEP3\obj\Debug\net5.0\BcExcepcionesLaCentralitaEP3.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcExcepcionesLaCentralitaEP3\obj\Debug\net5.0\BcExcepcionesLaCentralitaEP3.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcExcepcionesLaCentralitaEP3\obj\Debug\net5.0\ref\BcExcepcionesLaCentralitaEP3.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcExcepcionesLaCentralitaEP3\obj\Debug\net5.0\BcExcepcionesLaCentralitaEP3.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcExcepcionesLaCentralitaEP3\obj\Debug\net5.0\BcExcepcionesLaCentralitaEP3.csproj.AssemblyReference.cache
