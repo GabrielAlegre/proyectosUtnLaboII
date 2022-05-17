@@ -1,0 +1,12 @@
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcExcepcionGoSpeedRacerGo\bin\Debug\net5.0\BcExcepcionGoSpeedRacerGo.deps.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcExcepcionGoSpeedRacerGo\bin\Debug\net5.0\BcExcepcionGoSpeedRacerGo.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcExcepcionGoSpeedRacerGo\bin\Debug\net5.0\ref\BcExcepcionGoSpeedRacerGo.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcExcepcionGoSpeedRacerGo\bin\Debug\net5.0\BcExcepcionGoSpeedRacerGo.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcExcepcionGoSpeedRacerGo\obj\Debug\net5.0\BcExcepcionGoSpeedRacerGo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcExcepcionGoSpeedRacerGo\obj\Debug\net5.0\BcExcepcionGoSpeedRacerGo.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcExcepcionGoSpeedRacerGo\obj\Debug\net5.0\BcExcepcionGoSpeedRacerGo.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcExcepcionGoSpeedRacerGo\obj\Debug\net5.0\BcExcepcionGoSpeedRacerGo.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcExcepcionGoSpeedRacerGo\obj\Debug\net5.0\BcExcepcionGoSpeedRacerGo.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcExcepcionGoSpeedRacerGo\obj\Debug\net5.0\ref\BcExcepcionGoSpeedRacerGo.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcExcepcionGoSpeedRacerGo\obj\Debug\net5.0\BcExcepcionGoSpeedRacerGo.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcExcepcionGoSpeedRacerGo\obj\Debug\net5.0\BcExcepcionGoSpeedRacerGo.csproj.AssemblyReference.cache

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "excepcionesC02SeguiParticipando/1.0.0": {
+        "dependencies": {
+          "BcExcepcionGoSpeedRacerGo": "1.0.0"
+        },
+        "runtime": {
+          "excepcionesC02SeguiParticipando.dll": {}
+        }
+      },
+      "BcExcepcionGoSpeedRacerGo/1.0.0": {
+        "runtime": {
+          "BcExcepcionGoSpeedRacerGo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "excepcionesC02SeguiParticipando/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BcExcepcionGoSpeedRacerGo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
