@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TiposGenericosProyectoClase/1.0.0": {
+        "dependencies": {
+          "BcProyectoEnClaseGeneticos": "1.0.0"
+        },
+        "runtime": {
+          "TiposGenericosProyectoClase.dll": {}
+        }
+      },
+      "BcProyectoEnClaseGeneticos/1.0.0": {
+        "runtime": {
+          "BcProyectoEnClaseGeneticos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TiposGenericosProyectoClase/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BcProyectoEnClaseGeneticos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

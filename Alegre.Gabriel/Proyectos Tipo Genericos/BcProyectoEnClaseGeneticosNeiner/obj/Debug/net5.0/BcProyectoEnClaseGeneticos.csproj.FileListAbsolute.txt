@@ -1,0 +1,12 @@
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcProyectoEnClaseGeneticos\bin\Debug\net5.0\BcProyectoEnClaseGeneticos.deps.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcProyectoEnClaseGeneticos\bin\Debug\net5.0\BcProyectoEnClaseGeneticos.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcProyectoEnClaseGeneticos\bin\Debug\net5.0\ref\BcProyectoEnClaseGeneticos.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcProyectoEnClaseGeneticos\bin\Debug\net5.0\BcProyectoEnClaseGeneticos.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcProyectoEnClaseGeneticos\obj\Debug\net5.0\BcProyectoEnClaseGeneticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcProyectoEnClaseGeneticos\obj\Debug\net5.0\BcProyectoEnClaseGeneticos.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcProyectoEnClaseGeneticos\obj\Debug\net5.0\BcProyectoEnClaseGeneticos.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcProyectoEnClaseGeneticos\obj\Debug\net5.0\BcProyectoEnClaseGeneticos.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcProyectoEnClaseGeneticos\obj\Debug\net5.0\BcProyectoEnClaseGeneticos.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcProyectoEnClaseGeneticos\obj\Debug\net5.0\ref\BcProyectoEnClaseGeneticos.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcProyectoEnClaseGeneticos\obj\Debug\net5.0\BcProyectoEnClaseGeneticos.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcProyectoEnClaseGeneticos\obj\Debug\net5.0\BcProyectoEnClaseGeneticos.csproj.AssemblyReference.cache
