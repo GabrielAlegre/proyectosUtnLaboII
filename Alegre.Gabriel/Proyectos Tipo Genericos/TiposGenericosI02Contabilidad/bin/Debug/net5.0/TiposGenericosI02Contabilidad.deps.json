@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TiposGenericosI02Contabilidad/1.0.0": {
+        "dependencies": {
+          "BcContabilidadTiposGenericos": "1.0.0"
+        },
+        "runtime": {
+          "TiposGenericosI02Contabilidad.dll": {}
+        }
+      },
+      "BcContabilidadTiposGenericos/1.0.0": {
+        "runtime": {
+          "BcContabilidadTiposGenericos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TiposGenericosI02Contabilidad/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BcContabilidadTiposGenericos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

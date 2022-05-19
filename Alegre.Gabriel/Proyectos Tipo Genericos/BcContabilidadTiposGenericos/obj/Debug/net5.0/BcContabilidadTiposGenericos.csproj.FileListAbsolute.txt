@@ -1,0 +1,11 @@
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcContabilidadTiposGenericos\bin\Debug\net5.0\BcContabilidadTiposGenericos.deps.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcContabilidadTiposGenericos\bin\Debug\net5.0\BcContabilidadTiposGenericos.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcContabilidadTiposGenericos\bin\Debug\net5.0\ref\BcContabilidadTiposGenericos.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcContabilidadTiposGenericos\bin\Debug\net5.0\BcContabilidadTiposGenericos.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcContabilidadTiposGenericos\obj\Debug\net5.0\BcContabilidadTiposGenericos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcContabilidadTiposGenericos\obj\Debug\net5.0\BcContabilidadTiposGenericos.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcContabilidadTiposGenericos\obj\Debug\net5.0\BcContabilidadTiposGenericos.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcContabilidadTiposGenericos\obj\Debug\net5.0\BcContabilidadTiposGenericos.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcContabilidadTiposGenericos\obj\Debug\net5.0\BcContabilidadTiposGenericos.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcContabilidadTiposGenericos\obj\Debug\net5.0\ref\BcContabilidadTiposGenericos.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcContabilidadTiposGenericos\obj\Debug\net5.0\BcContabilidadTiposGenericos.pdb
