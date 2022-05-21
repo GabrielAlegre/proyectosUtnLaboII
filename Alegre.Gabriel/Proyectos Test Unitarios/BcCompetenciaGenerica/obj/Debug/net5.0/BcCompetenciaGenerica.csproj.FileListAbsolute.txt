@@ -1,0 +1,12 @@
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcCompetenciaGenerica\bin\Debug\net5.0\BcCompetenciaGenerica.deps.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcCompetenciaGenerica\bin\Debug\net5.0\BcCompetenciaGenerica.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcCompetenciaGenerica\bin\Debug\net5.0\ref\BcCompetenciaGenerica.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcCompetenciaGenerica\bin\Debug\net5.0\BcCompetenciaGenerica.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcCompetenciaGenerica\obj\Debug\net5.0\BcCompetenciaGenerica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcCompetenciaGenerica\obj\Debug\net5.0\BcCompetenciaGenerica.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcCompetenciaGenerica\obj\Debug\net5.0\BcCompetenciaGenerica.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcCompetenciaGenerica\obj\Debug\net5.0\BcCompetenciaGenerica.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcCompetenciaGenerica\obj\Debug\net5.0\BcCompetenciaGenerica.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcCompetenciaGenerica\obj\Debug\net5.0\ref\BcCompetenciaGenerica.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcCompetenciaGenerica\obj\Debug\net5.0\BcCompetenciaGenerica.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcCompetenciaGenerica\obj\Debug\net5.0\BcCompetenciaGenerica.csproj.AssemblyReference.cache
