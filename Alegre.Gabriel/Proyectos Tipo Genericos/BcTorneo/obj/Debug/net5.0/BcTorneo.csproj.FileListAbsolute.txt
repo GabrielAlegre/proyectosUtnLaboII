@@ -1,0 +1,12 @@
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcTorneo\bin\Debug\net5.0\BcTorneo.deps.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcTorneo\bin\Debug\net5.0\BcTorneo.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcTorneo\bin\Debug\net5.0\ref\BcTorneo.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcTorneo\bin\Debug\net5.0\BcTorneo.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcTorneo\obj\Debug\net5.0\BcTorneo.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcTorneo\obj\Debug\net5.0\BcTorneo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcTorneo\obj\Debug\net5.0\BcTorneo.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcTorneo\obj\Debug\net5.0\BcTorneo.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcTorneo\obj\Debug\net5.0\BcTorneo.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcTorneo\obj\Debug\net5.0\BcTorneo.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcTorneo\obj\Debug\net5.0\ref\BcTorneo.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcTorneo\obj\Debug\net5.0\BcTorneo.pdb
