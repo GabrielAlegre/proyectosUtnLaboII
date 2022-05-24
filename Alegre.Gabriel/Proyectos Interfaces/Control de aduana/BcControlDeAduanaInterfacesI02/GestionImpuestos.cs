@@ -49,7 +49,7 @@ namespace BcControlDeAduanaInterfacesI02
         {
             decimal totalAfip = 0;
             foreach (IAfip item in this.impuestosAfip)
-            {
+            { 
                 totalAfip += item.Impuestos;
             }
 

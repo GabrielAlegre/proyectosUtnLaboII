@@ -8,8 +8,8 @@ namespace BcControlDeAduanaInterfacesI02
 {
     public interface IAduana
     {
-        public decimal Impuestos { get; }
-        public decimal AplicarImpuestos();
+        decimal Impuestos { get; }
+        decimal AplicarImpuestos();
 
     }
 }
