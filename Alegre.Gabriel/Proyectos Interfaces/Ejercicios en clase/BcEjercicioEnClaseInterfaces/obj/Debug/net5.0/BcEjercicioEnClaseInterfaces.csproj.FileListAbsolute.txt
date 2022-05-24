@@ -1,0 +1,12 @@
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcEjercicioEnClaseInterfaces\bin\Debug\net5.0\BcEjercicioEnClaseInterfaces.deps.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcEjercicioEnClaseInterfaces\bin\Debug\net5.0\BcEjercicioEnClaseInterfaces.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcEjercicioEnClaseInterfaces\bin\Debug\net5.0\ref\BcEjercicioEnClaseInterfaces.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcEjercicioEnClaseInterfaces\bin\Debug\net5.0\BcEjercicioEnClaseInterfaces.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcEjercicioEnClaseInterfaces\obj\Debug\net5.0\BcEjercicioEnClaseInterfaces.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcEjercicioEnClaseInterfaces\obj\Debug\net5.0\BcEjercicioEnClaseInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcEjercicioEnClaseInterfaces\obj\Debug\net5.0\BcEjercicioEnClaseInterfaces.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcEjercicioEnClaseInterfaces\obj\Debug\net5.0\BcEjercicioEnClaseInterfaces.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcEjercicioEnClaseInterfaces\obj\Debug\net5.0\BcEjercicioEnClaseInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcEjercicioEnClaseInterfaces\obj\Debug\net5.0\BcEjercicioEnClaseInterfaces.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcEjercicioEnClaseInterfaces\obj\Debug\net5.0\ref\BcEjercicioEnClaseInterfaces.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcEjercicioEnClaseInterfaces\obj\Debug\net5.0\BcEjercicioEnClaseInterfaces.pdb
