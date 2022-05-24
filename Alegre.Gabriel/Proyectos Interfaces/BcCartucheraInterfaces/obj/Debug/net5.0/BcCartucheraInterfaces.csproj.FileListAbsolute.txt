@@ -1,0 +1,12 @@
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcCartucheraInterfaces\bin\Debug\net5.0\BcCartucheraInterfaces.deps.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcCartucheraInterfaces\bin\Debug\net5.0\BcCartucheraInterfaces.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcCartucheraInterfaces\bin\Debug\net5.0\ref\BcCartucheraInterfaces.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcCartucheraInterfaces\bin\Debug\net5.0\BcCartucheraInterfaces.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcCartucheraInterfaces\obj\Debug\net5.0\BcCartucheraInterfaces.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcCartucheraInterfaces\obj\Debug\net5.0\BcCartucheraInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcCartucheraInterfaces\obj\Debug\net5.0\BcCartucheraInterfaces.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcCartucheraInterfaces\obj\Debug\net5.0\BcCartucheraInterfaces.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcCartucheraInterfaces\obj\Debug\net5.0\BcCartucheraInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcCartucheraInterfaces\obj\Debug\net5.0\BcCartucheraInterfaces.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcCartucheraInterfaces\obj\Debug\net5.0\ref\BcCartucheraInterfaces.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcCartucheraInterfaces\obj\Debug\net5.0\BcCartucheraInterfaces.pdb
