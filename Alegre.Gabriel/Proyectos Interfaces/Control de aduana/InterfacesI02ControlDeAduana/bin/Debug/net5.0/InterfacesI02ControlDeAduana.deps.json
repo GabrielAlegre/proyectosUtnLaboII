@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "InterfacesI02ControlDeAduana/1.0.0": {
+        "dependencies": {
+          "BcControlDeAduanaInterfacesI02": "1.0.0"
+        },
+        "runtime": {
+          "InterfacesI02ControlDeAduana.dll": {}
+        }
+      },
+      "BcControlDeAduanaInterfacesI02/1.0.0": {
+        "runtime": {
+          "BcControlDeAduanaInterfacesI02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InterfacesI02ControlDeAduana/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BcControlDeAduanaInterfacesI02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

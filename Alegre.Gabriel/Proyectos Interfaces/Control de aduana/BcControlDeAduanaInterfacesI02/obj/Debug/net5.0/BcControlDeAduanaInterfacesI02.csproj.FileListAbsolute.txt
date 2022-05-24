@@ -1,0 +1,12 @@
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcControlDeAduanaInterfacesI02\bin\Debug\net5.0\BcControlDeAduanaInterfacesI02.deps.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcControlDeAduanaInterfacesI02\bin\Debug\net5.0\BcControlDeAduanaInterfacesI02.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcControlDeAduanaInterfacesI02\bin\Debug\net5.0\ref\BcControlDeAduanaInterfacesI02.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcControlDeAduanaInterfacesI02\bin\Debug\net5.0\BcControlDeAduanaInterfacesI02.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcControlDeAduanaInterfacesI02\obj\Debug\net5.0\BcControlDeAduanaInterfacesI02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcControlDeAduanaInterfacesI02\obj\Debug\net5.0\BcControlDeAduanaInterfacesI02.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcControlDeAduanaInterfacesI02\obj\Debug\net5.0\BcControlDeAduanaInterfacesI02.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcControlDeAduanaInterfacesI02\obj\Debug\net5.0\BcControlDeAduanaInterfacesI02.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcControlDeAduanaInterfacesI02\obj\Debug\net5.0\BcControlDeAduanaInterfacesI02.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcControlDeAduanaInterfacesI02\obj\Debug\net5.0\ref\BcControlDeAduanaInterfacesI02.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcControlDeAduanaInterfacesI02\obj\Debug\net5.0\BcControlDeAduanaInterfacesI02.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcControlDeAduanaInterfacesI02\obj\Debug\net5.0\BcControlDeAduanaInterfacesI02.csproj.AssemblyReference.cache
