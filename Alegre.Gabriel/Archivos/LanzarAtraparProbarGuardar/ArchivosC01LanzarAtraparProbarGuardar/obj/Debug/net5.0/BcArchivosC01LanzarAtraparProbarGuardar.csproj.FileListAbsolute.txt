@@ -1,0 +1,12 @@
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\ArchivosC01LanzarAtraparProbarGuardar\bin\Debug\net5.0\BcArchivosC01LanzarAtraparProbarGuardar.deps.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\ArchivosC01LanzarAtraparProbarGuardar\bin\Debug\net5.0\BcArchivosC01LanzarAtraparProbarGuardar.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\ArchivosC01LanzarAtraparProbarGuardar\bin\Debug\net5.0\ref\BcArchivosC01LanzarAtraparProbarGuardar.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\ArchivosC01LanzarAtraparProbarGuardar\bin\Debug\net5.0\BcArchivosC01LanzarAtraparProbarGuardar.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\ArchivosC01LanzarAtraparProbarGuardar\obj\Debug\net5.0\BcArchivosC01LanzarAtraparProbarGuardar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\ArchivosC01LanzarAtraparProbarGuardar\obj\Debug\net5.0\BcArchivosC01LanzarAtraparProbarGuardar.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\ArchivosC01LanzarAtraparProbarGuardar\obj\Debug\net5.0\BcArchivosC01LanzarAtraparProbarGuardar.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\ArchivosC01LanzarAtraparProbarGuardar\obj\Debug\net5.0\BcArchivosC01LanzarAtraparProbarGuardar.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\ArchivosC01LanzarAtraparProbarGuardar\obj\Debug\net5.0\BcArchivosC01LanzarAtraparProbarGuardar.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\ArchivosC01LanzarAtraparProbarGuardar\obj\Debug\net5.0\ref\BcArchivosC01LanzarAtraparProbarGuardar.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\ArchivosC01LanzarAtraparProbarGuardar\obj\Debug\net5.0\BcArchivosC01LanzarAtraparProbarGuardar.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\ArchivosC01LanzarAtraparProbarGuardar\obj\Debug\net5.0\BcArchivosC01LanzarAtraparProbarGuardar.csproj.AssemblyReference.cache

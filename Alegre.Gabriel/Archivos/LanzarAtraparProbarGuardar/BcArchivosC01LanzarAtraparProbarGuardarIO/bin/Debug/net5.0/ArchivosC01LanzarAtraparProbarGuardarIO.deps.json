@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ArchivosC01LanzarAtraparProbarGuardarIO/1.0.0": {
+        "dependencies": {
+          "BcArchivosC01LanzarAtraparProbarGuardar": "1.0.0"
+        },
+        "runtime": {
+          "ArchivosC01LanzarAtraparProbarGuardarIO.dll": {}
+        }
+      },
+      "BcArchivosC01LanzarAtraparProbarGuardar/1.0.0": {
+        "runtime": {
+          "BcArchivosC01LanzarAtraparProbarGuardar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ArchivosC01LanzarAtraparProbarGuardarIO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BcArchivosC01LanzarAtraparProbarGuardar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
