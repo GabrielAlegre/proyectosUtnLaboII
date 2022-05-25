@@ -1,0 +1,12 @@
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcCentralitaEp6Archivos\bin\Debug\net5.0\BcCentralitaEp6Archivos.deps.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcCentralitaEp6Archivos\bin\Debug\net5.0\BcCentralitaEp6Archivos.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcCentralitaEp6Archivos\bin\Debug\net5.0\ref\BcCentralitaEp6Archivos.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcCentralitaEp6Archivos\bin\Debug\net5.0\BcCentralitaEp6Archivos.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcCentralitaEp6Archivos\obj\Debug\net5.0\BcCentralitaEp6Archivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcCentralitaEp6Archivos\obj\Debug\net5.0\BcCentralitaEp6Archivos.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcCentralitaEp6Archivos\obj\Debug\net5.0\BcCentralitaEp6Archivos.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcCentralitaEp6Archivos\obj\Debug\net5.0\BcCentralitaEp6Archivos.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcCentralitaEp6Archivos\obj\Debug\net5.0\BcCentralitaEp6Archivos.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcCentralitaEp6Archivos\obj\Debug\net5.0\ref\BcCentralitaEp6Archivos.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcCentralitaEp6Archivos\obj\Debug\net5.0\BcCentralitaEp6Archivos.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcCentralitaEp6Archivos\obj\Debug\net5.0\BcCentralitaEp6Archivos.csproj.AssemblyReference.cache

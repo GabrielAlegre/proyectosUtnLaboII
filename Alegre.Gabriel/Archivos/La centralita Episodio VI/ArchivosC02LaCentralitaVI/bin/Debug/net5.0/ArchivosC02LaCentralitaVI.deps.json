@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ArchivosC02LaCentralitaVI/1.0.0": {
+        "dependencies": {
+          "BcCentralitaEp6Archivos": "1.0.0"
+        },
+        "runtime": {
+          "ArchivosC02LaCentralitaVI.dll": {}
+        }
+      },
+      "BcCentralitaEp6Archivos/1.0.0": {
+        "runtime": {
+          "BcCentralitaEp6Archivos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ArchivosC02LaCentralitaVI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BcCentralitaEp6Archivos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

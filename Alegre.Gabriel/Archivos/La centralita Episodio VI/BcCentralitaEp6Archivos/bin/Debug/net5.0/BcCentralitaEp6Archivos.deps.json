@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BcCentralitaEp6Archivos/1.0.0": {
+        "runtime": {
+          "BcCentralitaEp6Archivos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BcCentralitaEp6Archivos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
