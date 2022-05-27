@@ -1,0 +1,12 @@
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcSiempreQuiseTenerUnNotepadSerializador\bin\Debug\net5.0\BcSiempreQuiseTenerUnNotepadSerializador.deps.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcSiempreQuiseTenerUnNotepadSerializador\bin\Debug\net5.0\BcSiempreQuiseTenerUnNotepadSerializador.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcSiempreQuiseTenerUnNotepadSerializador\bin\Debug\net5.0\ref\BcSiempreQuiseTenerUnNotepadSerializador.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcSiempreQuiseTenerUnNotepadSerializador\bin\Debug\net5.0\BcSiempreQuiseTenerUnNotepadSerializador.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcSiempreQuiseTenerUnNotepadSerializador\obj\Debug\net5.0\BcSiempreQuiseTenerUnNotepadSerializador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcSiempreQuiseTenerUnNotepadSerializador\obj\Debug\net5.0\BcSiempreQuiseTenerUnNotepadSerializador.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcSiempreQuiseTenerUnNotepadSerializador\obj\Debug\net5.0\BcSiempreQuiseTenerUnNotepadSerializador.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcSiempreQuiseTenerUnNotepadSerializador\obj\Debug\net5.0\BcSiempreQuiseTenerUnNotepadSerializador.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcSiempreQuiseTenerUnNotepadSerializador\obj\Debug\net5.0\BcSiempreQuiseTenerUnNotepadSerializador.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcSiempreQuiseTenerUnNotepadSerializador\obj\Debug\net5.0\ref\BcSiempreQuiseTenerUnNotepadSerializador.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcSiempreQuiseTenerUnNotepadSerializador\obj\Debug\net5.0\BcSiempreQuiseTenerUnNotepadSerializador.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcSiempreQuiseTenerUnNotepadSerializador\obj\Debug\net5.0\BcSiempreQuiseTenerUnNotepadSerializador.csproj.AssemblyReference.cache
