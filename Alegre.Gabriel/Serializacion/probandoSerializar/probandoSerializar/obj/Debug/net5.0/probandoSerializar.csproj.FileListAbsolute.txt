@@ -1,0 +1,16 @@
+C:\Users\Gabriel\source\repos\probandoSerializar\probandoSerializar\bin\Debug\net5.0\probandoSerializar.exe
+C:\Users\Gabriel\source\repos\probandoSerializar\probandoSerializar\bin\Debug\net5.0\probandoSerializar.deps.json
+C:\Users\Gabriel\source\repos\probandoSerializar\probandoSerializar\bin\Debug\net5.0\probandoSerializar.runtimeconfig.json
+C:\Users\Gabriel\source\repos\probandoSerializar\probandoSerializar\bin\Debug\net5.0\probandoSerializar.runtimeconfig.dev.json
+C:\Users\Gabriel\source\repos\probandoSerializar\probandoSerializar\bin\Debug\net5.0\probandoSerializar.dll
+C:\Users\Gabriel\source\repos\probandoSerializar\probandoSerializar\bin\Debug\net5.0\ref\probandoSerializar.dll
+C:\Users\Gabriel\source\repos\probandoSerializar\probandoSerializar\bin\Debug\net5.0\probandoSerializar.pdb
+C:\Users\Gabriel\source\repos\probandoSerializar\probandoSerializar\obj\Debug\net5.0\probandoSerializar.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\probandoSerializar\probandoSerializar\obj\Debug\net5.0\probandoSerializar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\probandoSerializar\probandoSerializar\obj\Debug\net5.0\probandoSerializar.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\probandoSerializar\probandoSerializar\obj\Debug\net5.0\probandoSerializar.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\probandoSerializar\probandoSerializar\obj\Debug\net5.0\probandoSerializar.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\probandoSerializar\probandoSerializar\obj\Debug\net5.0\probandoSerializar.dll
+C:\Users\Gabriel\source\repos\probandoSerializar\probandoSerializar\obj\Debug\net5.0\ref\probandoSerializar.dll
+C:\Users\Gabriel\source\repos\probandoSerializar\probandoSerializar\obj\Debug\net5.0\probandoSerializar.pdb
+C:\Users\Gabriel\source\repos\probandoSerializar\probandoSerializar\obj\Debug\net5.0\probandoSerializar.genruntimeconfig.cache

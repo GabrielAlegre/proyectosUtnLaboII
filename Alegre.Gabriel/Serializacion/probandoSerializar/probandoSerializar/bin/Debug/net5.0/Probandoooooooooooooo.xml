@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPersona xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Persona xsi:type="Estuadiante">
+    <Nombre>Jorge</Nombre>
+    <Apellido>Alegre</Apellido>
+    <Dni>28028001</Dni>
+    <Edad>65</Edad>
+    <MateriasCursadas>8</MateriasCursadas>
+    <AnioCurso>2</AnioCurso>
+  </Persona>
+  <Persona xsi:type="Empleado">
+    <Nombre>alba</Nombre>
+    <Apellido>rodriguz</Apellido>
+    <Dni>43901903</Dni>
+    <Edad>35</Edad>
+    <Sueldo>56000</Sueldo>
+    <HorasTrabajadas>95</HorasTrabajadas>
+  </Persona>
+  <Persona xsi:type="Estuadiante">
+    <Nombre>Perro</Nombre>
+    <Apellido>Callejero</Apellido>
+    <Dni>6464535</Dni>
+    <Edad>23</Edad>
+    <MateriasCursadas>13</MateriasCursadas>
+    <AnioCurso>4</AnioCurso>
+  </Persona>
+  <Persona xsi:type="Empleado">
+    <Nombre>juan</Nombre>
+    <Apellido>perez</Apellido>
+    <Dni>768686864</Dni>
+    <Edad>75</Edad>
+    <Sueldo>700000</Sueldo>
+    <HorasTrabajadas>554</HorasTrabajadas>
+  </Persona>
+  <Persona xsi:type="Empleado">
+    <Nombre>mago</Nombre>
+    <Apellido>sin pija</Apellido>
+    <Dni>5464356</Dni>
+    <Edad>21</Edad>
+    <Sueldo>150000</Sueldo>
+    <HorasTrabajadas>123</HorasTrabajadas>
+  </Persona>
+</ArrayOfPersona>
