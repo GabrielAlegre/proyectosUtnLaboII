@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SerializacionC02LaCentralitaVII/1.0.0": {
+        "dependencies": {
+          "BcLaCentralitaEP7Serializacion": "1.0.0"
+        },
+        "runtime": {
+          "SerializacionC02LaCentralitaVII.dll": {}
+        }
+      },
+      "BcLaCentralitaEP7Serializacion/1.0.0": {
+        "runtime": {
+          "BcLaCentralitaEP7Serializacion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SerializacionC02LaCentralitaVII/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BcLaCentralitaEP7Serializacion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

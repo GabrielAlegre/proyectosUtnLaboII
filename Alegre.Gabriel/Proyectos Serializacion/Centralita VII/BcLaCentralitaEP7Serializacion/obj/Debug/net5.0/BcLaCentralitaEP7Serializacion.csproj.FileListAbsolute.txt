@@ -1,0 +1,12 @@
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcLaCentralitaEP7Serializacion\bin\Debug\net5.0\BcLaCentralitaEP7Serializacion.deps.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcLaCentralitaEP7Serializacion\bin\Debug\net5.0\BcLaCentralitaEP7Serializacion.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcLaCentralitaEP7Serializacion\bin\Debug\net5.0\ref\BcLaCentralitaEP7Serializacion.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcLaCentralitaEP7Serializacion\bin\Debug\net5.0\BcLaCentralitaEP7Serializacion.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcLaCentralitaEP7Serializacion\obj\Debug\net5.0\BcLaCentralitaEP7Serializacion.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcLaCentralitaEP7Serializacion\obj\Debug\net5.0\BcLaCentralitaEP7Serializacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcLaCentralitaEP7Serializacion\obj\Debug\net5.0\BcLaCentralitaEP7Serializacion.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcLaCentralitaEP7Serializacion\obj\Debug\net5.0\BcLaCentralitaEP7Serializacion.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcLaCentralitaEP7Serializacion\obj\Debug\net5.0\BcLaCentralitaEP7Serializacion.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcLaCentralitaEP7Serializacion\obj\Debug\net5.0\BcLaCentralitaEP7Serializacion.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcLaCentralitaEP7Serializacion\obj\Debug\net5.0\ref\BcLaCentralitaEP7Serializacion.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcLaCentralitaEP7Serializacion\obj\Debug\net5.0\BcLaCentralitaEP7Serializacion.pdb
