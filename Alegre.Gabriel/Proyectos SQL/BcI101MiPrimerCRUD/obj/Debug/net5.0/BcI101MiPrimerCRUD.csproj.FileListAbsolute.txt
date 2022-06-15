@@ -1,0 +1,12 @@
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcI101MiPrimerCRUD\bin\Debug\net5.0\BcI101MiPrimerCRUD.deps.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcI101MiPrimerCRUD\bin\Debug\net5.0\BcI101MiPrimerCRUD.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcI101MiPrimerCRUD\bin\Debug\net5.0\ref\BcI101MiPrimerCRUD.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcI101MiPrimerCRUD\bin\Debug\net5.0\BcI101MiPrimerCRUD.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcI101MiPrimerCRUD\obj\Debug\net5.0\BcI101MiPrimerCRUD.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcI101MiPrimerCRUD\obj\Debug\net5.0\BcI101MiPrimerCRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcI101MiPrimerCRUD\obj\Debug\net5.0\BcI101MiPrimerCRUD.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcI101MiPrimerCRUD\obj\Debug\net5.0\BcI101MiPrimerCRUD.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcI101MiPrimerCRUD\obj\Debug\net5.0\BcI101MiPrimerCRUD.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcI101MiPrimerCRUD\obj\Debug\net5.0\BcI101MiPrimerCRUD.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcI101MiPrimerCRUD\obj\Debug\net5.0\ref\BcI101MiPrimerCRUD.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcI101MiPrimerCRUD\obj\Debug\net5.0\BcI101MiPrimerCRUD.pdb
