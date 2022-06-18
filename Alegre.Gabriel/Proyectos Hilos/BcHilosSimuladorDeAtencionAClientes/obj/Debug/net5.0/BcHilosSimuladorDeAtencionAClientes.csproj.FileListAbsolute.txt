@@ -1,0 +1,12 @@
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcHilosSimuladorDeAtencionAClientes\obj\Debug\net5.0\BcHilosSimuladorDeAtencionAClientes.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcHilosSimuladorDeAtencionAClientes\obj\Debug\net5.0\BcHilosSimuladorDeAtencionAClientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcHilosSimuladorDeAtencionAClientes\obj\Debug\net5.0\BcHilosSimuladorDeAtencionAClientes.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcHilosSimuladorDeAtencionAClientes\obj\Debug\net5.0\BcHilosSimuladorDeAtencionAClientes.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcHilosSimuladorDeAtencionAClientes\obj\Debug\net5.0\BcHilosSimuladorDeAtencionAClientes.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcHilosSimuladorDeAtencionAClientes\bin\Debug\net5.0\BcHilosSimuladorDeAtencionAClientes.deps.json
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcHilosSimuladorDeAtencionAClientes\bin\Debug\net5.0\BcHilosSimuladorDeAtencionAClientes.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcHilosSimuladorDeAtencionAClientes\bin\Debug\net5.0\ref\BcHilosSimuladorDeAtencionAClientes.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcHilosSimuladorDeAtencionAClientes\bin\Debug\net5.0\BcHilosSimuladorDeAtencionAClientes.pdb
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcHilosSimuladorDeAtencionAClientes\obj\Debug\net5.0\BcHilosSimuladorDeAtencionAClientes.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcHilosSimuladorDeAtencionAClientes\obj\Debug\net5.0\ref\BcHilosSimuladorDeAtencionAClientes.dll
+C:\Users\Gabriel\source\repos\Cursada\Alegre.Gabriel\BcHilosSimuladorDeAtencionAClientes\obj\Debug\net5.0\BcHilosSimuladorDeAtencionAClientes.pdb

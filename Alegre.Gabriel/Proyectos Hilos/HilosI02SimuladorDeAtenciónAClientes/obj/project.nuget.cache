@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4FOAbeKMcSPYCHjRQMCy38QbeNK2IA+tyifs7LLO3QfVlwyMn/v4M5ovZ7TivNsVx0KUykP5pLxe5kQ7dXQ1lg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gabriel\\source\\repos\\Cursada\\Alegre.Gabriel\\HilosI02SimuladorDeAtenciónAClientes\\HilosI02SimuladorDeAtenciónAClientes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gabriel\\.nuget\\packages\\namegenerator\\2.0.4\\namegenerator.2.0.4.nupkg.sha512",
+    "C:\\Users\\Gabriel\\.nuget\\packages\\system.text.json\\5.0.1\\system.text.json.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
